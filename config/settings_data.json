@@ -1,14 +1,16 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/Untitled_design_4.svg",
     "logo_width": 90,
+    "favicon": "shopify:\/\/shop_images\/Untitled_design_4.svg",
     "type_header_font": "futura_n6",
-    "heading_scale": 100,
+    "heading_scale": 105,
     "type_body_font": "futura_n4",
-    "body_scale": 100,
+    "body_scale": 105,
     "page_width": 1200,
     "spacing_sections": 0,
-    "spacing_grid_horizontal": 8,
-    "spacing_grid_vertical": 8,
+    "spacing_grid_horizontal": 4,
+    "spacing_grid_vertical": 4,
     "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
@@ -134,8 +136,8 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#1c1c1a",
-          "button": "#121212",
+          "text": "#000000",
+          "button": "#000000",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
