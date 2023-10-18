@@ -16,7 +16,7 @@
               >
             {%- endif -%}
             <p class="announcement-bar__message h5" id="scroll-element">
-              {{ block.settings.text | escape }}
+              {{ block.settings.text | escape }} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ block.settings.text | escape }}
               {%- if block.settings.link != blank -%}
                 {% render 'icon-arrow' %}
               {%- endif -%}
@@ -32,19 +32,19 @@
 
 {% style %}
   .announcement-bar__message {
-    text-align: right !important;
+    text-align: left !important;
   }
   @-webkit-keyframes scroll{
     0% {
-      margin-right: 0%;
+      margin-left: 0%;
     }
     100% {
-      margin-right: 100%;
+      margin-left: 100%;
     }
   }
   .scroll-box {
     display: inline-flex;
-    justify-content: center;
+    justify-content: start;
     white-space: nowrap;
     font-size: 1.1em;
     overflow: hidden;
@@ -55,16 +55,16 @@
   @media screen and (min-width: 768px) {
     .scroll-container {
       width: 100%;
-      direction: rtl;
-      margin-left: 0px;
+      direction: ltr;
+      margin-right: 0px;
       overflow: hidden;
     }
   }
   @media screen and (max-width: 767px) {
     .scroll-container {
       width: 100%;
-      direction: rtl;
-      margin-left: 24px;
+      direction: ltr;
+      margin-right: 24px;
       overflow: hidden;
     }
   }
