@@ -9,14 +9,14 @@
             "image_padding": false
           }
         },
-        "4f350ea4-47db-4d5c-98cc-b2c4898d7781": {
+        "e2301486-af37-4ad3-ad50-3e344b9cd45d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20220915_173016_528_1.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_35.png",
             "image_padding": false
           }
         },
-        "14644a30-3b6d-4e39-ba35-489e654b6b97": {
+        "7e591bc8-799b-4c36-b3df-712c67da26d0": {
           "type": "image",
           "settings": {
             "image_padding": false
@@ -25,8 +25,8 @@
       },
       "block_order": [
         "b6ef6be7-00fa-40e0-b7c8-21ecd6a14647",
-        "4f350ea4-47db-4d5c-98cc-b2c4898d7781",
-        "14644a30-3b6d-4e39-ba35-489e654b6b97"
+        "e2301486-af37-4ad3-ad50-3e344b9cd45d",
+        "7e591bc8-799b-4c36-b3df-712c67da26d0"
       ],
       "settings": {
         "heading": "Multimedia collage",

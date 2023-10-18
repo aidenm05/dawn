@@ -3505,3 +3505,6 @@ details-disclosure > details {
 }
 .header-wrapper  { 
 
+height: 40px !important;
+
+}
