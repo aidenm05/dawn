@@ -3503,4 +3503,8 @@ details-disclosure > details {
  filter: grayscale(100%);
  -webkit-filter: grayscale(100%);
 }
+.header-wrapper  { 
 
+height: 35px !important;
+
+}
