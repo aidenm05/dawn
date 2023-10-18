@@ -17,6 +17,7 @@
       "block_order": [
         "4f31a75f-7697-422a-8621-8080b7d76052"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -27,7 +28,7 @@
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "reduce-logo-size",
-        "show_line_separator": false,
+        "show_line_separator": true,
         "color_scheme": "background-1",
         "menu_color_scheme": "",
         "enable_country_selector": false,

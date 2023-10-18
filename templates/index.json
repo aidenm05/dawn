@@ -1,11 +1,83 @@
 {
   "sections": {
+    "215fcf3e-0db2-4bb0-befa-03b806ce5e5f": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-variant_picker-1": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-text-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-title-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-price-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-variant_picker-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-quantity_selector-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-buy_buttons-1",
+        "template--15727185854511__215fcf3e-0db2-4bb0-befa-03b806ce5e5f-share-1"
+      ],
+      "settings": {
+        "product": "icing-on-the-kickz-signature-popcorn-set",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "c511b632-ebad-479e-b2ca-4ea5c66d83bc": {
       "type": "multirow",
       "blocks": {
         "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-1": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20220915_173016_528_1.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -57,6 +129,7 @@
     }
   },
   "order": [
+    "215fcf3e-0db2-4bb0-befa-03b806ce5e5f",
     "c511b632-ebad-479e-b2ca-4ea5c66d83bc"
   ]
 }
