@@ -1,21 +1,21 @@
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'announcement' -%}
-      {% if block.settings.text %}
-        <div
-          class="text-center announcement-bar color-{{ block.settings.color_scheme }} gradient"
-          role="region"
-          aria-label="{{ 'sections.header.announcement' | t }}"
-          {{ block.shopify_attributes }}
-        >
-          {%- if block.settings.text != blank -%}
+      <div
+        class="announcement-bar scroll-box color-{{ block.settings.color_scheme }} gradient"
+        role="region"
+        aria-label="{{ 'sections.header.announcement' | t }}"
+        {{ block.shopify_attributes }}
+      >
+        {%- if block.settings.text != blank -%}
+          <div class="scroll-container">
             {%- if block.settings.link != blank -%}
               <a
                 href="{{ block.settings.link }}"
                 class="announcement-bar__link link link--text focus-inset animate-arrow"
               >
             {%- endif -%}
-            <p class="announcement-bar__message h5">
+            <p class="announcement-bar__message h5" id="scroll-element">
               {{ block.settings.text | escape }}
               {%- if block.settings.link != blank -%}
                 {% render 'icon-arrow' %}
@@ -24,12 +24,59 @@
             {%- if block.settings.link != blank -%}
               </a>
             {%- endif -%}
-          {%- endif -%}
-        </div>
-      {% endif %}
+          </div>
+        {%- endif -%}
+      </div>
   {%- endcase -%}
 {%- endfor -%}
 
+{% style %}
+  .announcement-bar__message {
+    text-align: right !important;
+  }
+  @-webkit-keyframes scroll{
+    0% {
+      margin-right: 0%;
+    }
+    100% {
+      margin-right: 100%;
+    }
+  }
+  .scroll-box {
+    display: inline-flex;
+    justify-content: center;
+    white-space: nowrap;
+    font-size: 1.1em;
+    overflow: hidden;
+    width: 100%;
+    background: rgb(var(--color-background));
+    background: var(--gradient-background);
+  }
+  @media screen and (min-width: 768px) {
+    .scroll-container {
+      width: 50%;
+      direction: rtl;
+      margin-left: 120px;
+      overflow: hidden;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .scroll-container {
+      width: 100%;
+      direction: rtl;
+      margin-left: 24px;
+      overflow: hidden;
+    }
+  }
+  #scroll-element {
+    padding: 10px;
+  }
+{% endstyle %}
+<script>
+  var elemWidth = document.getElementById('scroll-element').offsetWidth;
+  var time = elemWidth/120; /* lower number for slow & higher number for fast scroll */
+  document.getElementById('scroll-element').style.cssText = "animation: scroll "+time+"s linear infinite;"
+</script>
 {% schema %}
 {
   "name": "t:sections.announcement-bar.name",
