@@ -3499,3 +3499,7 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+.footer__payment .list-payment__item .icon{
+ filter: grayscale(100%);
+ -webkit-filter: grayscale(100%);
+}
