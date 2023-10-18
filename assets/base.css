@@ -3503,3 +3503,6 @@ details-disclosure > details {
  filter: grayscale(100%);
  -webkit-filter: grayscale(100%);
 }
+.product__media img {
+    border-radius: 5px !important;
+}
