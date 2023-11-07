@@ -3508,20 +3508,8 @@ details-disclosure > details {
 height: 80px !important;
 
 }
-.banner__heading{
-
-color:black !important
-
+/* Custom CSS for Header Menu Items */
+.header__menu-item {
+  text-decoration: none; /* Remove underline */
+  font-size: 1.2em; /* Increase font size; adjust as needed */
 }
-
-.banner__buttons .button{
-
-color:white !important;
-
-background-color:black !important;
-
--webkit-text-fill-color: white !important
-
-}
-
- 
