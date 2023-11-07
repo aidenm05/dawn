@@ -3535,4 +3535,6 @@ height: 80px !important;
   margin: 16px; /* Space around the image to accommodate shadow */
   display: block; /* Ensure that img behaves correctly with margin */
 }
-
+	.card-information .price .price-item {
+		font-wieght: 300;
+	}
