@@ -3536,5 +3536,7 @@ height: 80px !important;
   display: block; /* Ensure that img behaves correctly with margin */
 }
 	.card-information .price .price-item {
-		font-wieght: 300;
+		font-weight: 300;
+      		font-size: 10px;
+
 	}
