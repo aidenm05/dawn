@@ -3536,6 +3536,3 @@ height: 80px !important;
   display: block; /* Ensure that img behaves correctly with margin */
 }
 
-.card__heading {
-    font-weight: 600 !important;
-}
