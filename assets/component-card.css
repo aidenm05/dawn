@@ -292,8 +292,8 @@
   }
 
   .underline-links-hover:hover a {
-    text-decoration: underline;
-    text-underline-offset: 0.3rem;
+    text-decoration: none;
+    text-underline-offset: 0.1rem;
   }
 }
 
