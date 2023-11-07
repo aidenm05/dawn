@@ -1,7 +1,5 @@
 
 .card-wrapper {
-   border: 4px solid #000; /* Thick black border */
-  margin: 16px; /* Space around the image to accommodate shadow */
   color: inherit;
   height: 100%;
   position: relative;
