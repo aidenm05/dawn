@@ -3499,6 +3499,14 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+/* Custom CSS for Header Menu Items */
+.header__menu-item,
+.header__menu-item a {
+  text-decoration: none !important;
+  font-size: 1.2em; /* Increase font size; adjust as needed */
+  font-weight: bold; /* Make text bold */
+  padding-left: 15px; /* Add left padding; adjust as needed */
+}
 .footer__payment .list-payment__item .icon{
  filter: grayscale(100%);
  -webkit-filter: grayscale(100%);
@@ -3508,11 +3516,4 @@ details-disclosure > details {
 height: 80px !important;
 
 }
-/* Custom CSS for Header Menu Items */
-.header__menu-item,
-.header__menu-item a {
-  text-decoration: none !important;
-  font-size: 1.2em; /* Increase font size; adjust as needed */
-  font-weight: bold; /* Make text bold */
-  padding-left: 15px; /* Add left padding; adjust as needed */
-}
+
