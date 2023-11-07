@@ -3515,3 +3515,7 @@ details-disclosure > details {
 height: 80px !important;
 
 }
+/* Add border to product images */
+.product__image-wrapper img {
+  border: 2px solid #000; /* Adjust the color (#000 is black) and border size as needed */
+}
