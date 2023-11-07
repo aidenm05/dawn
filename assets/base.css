@@ -3508,3 +3508,18 @@ details-disclosure > details {
 height: 80px !important;
 
 }
+.banner__heading{
+
+color:black !important
+
+}
+
+.banner__buttons .button{
+
+color:white !important;
+
+background-color:black !important;
+
+-webkit-text-fill-color: white !important
+
+}
