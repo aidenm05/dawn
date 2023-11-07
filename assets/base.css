@@ -3535,3 +3535,7 @@ height: 80px !important;
   margin: 16px; /* Space around the image to accommodate shadow */
   display: block; /* Ensure that img behaves correctly with margin */
 }
+
+.card__heading {
+    font-weight: 600 !important;
+}
