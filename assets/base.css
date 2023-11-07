@@ -3509,7 +3509,10 @@ height: 80px !important;
 
 }
 /* Custom CSS for Header Menu Items */
-.header__menu-item {
+.header__menu-item,
+.header__menu-item a {
   text-decoration: none; /* Remove underline */
   font-size: 1.2em; /* Increase font size; adjust as needed */
+  font-weight: bold; /* Make text bold */
+  padding-left: 15px; /* Add left padding; adjust as needed */
 }
