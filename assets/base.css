@@ -3516,4 +3516,9 @@ details-disclosure > details {
 height: 80px !important;
 
 }
-
+.rte a:hover{
+	text-decoration: underline;
+}
+.rte a{
+    text-decoration: none;
+}
