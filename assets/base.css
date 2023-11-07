@@ -3522,6 +3522,16 @@ height: 80px !important;
   margin: 16px; /* Space around the image to accommodate shadow */
   display: block; /* Ensure that img behaves correctly with margin */
 }
-.collection .card__inner .card__content {
-  background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.35));
+.product__media-list .product__modal-opener {
+  border: 4px solid #000; /* Thick black border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Drop shadow for depth effect */
+  margin: 16px; /* Space around the image to accommodate shadow */
+  display: block; /* Ensure that img behaves correctly with margin */
+}
+
+.card.card--product.card--outline {
+ border: 4px solid #000; /* Thick black border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Drop shadow for depth effect */
+  margin: 16px; /* Space around the image to accommodate shadow */
+  display: block; /* Ensure that img behaves correctly with margin */
 }
