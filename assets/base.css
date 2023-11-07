@@ -3536,6 +3536,3 @@ height: 80px !important;
   display: block; /* Ensure that img behaves correctly with margin */
 }
 
-.product__title h1 {
-    font-size: 24px;
-}
