@@ -95,6 +95,9 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        "h3 {font-weight: 10;}"
+      ],
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -104,7 +107,7 @@
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_rating": false,
         "columns_mobile": "2",
         "padding_top": 100,
