@@ -3522,3 +3522,4 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
+.full-unstyled-link:hover {text-decoration: unset !important;}
