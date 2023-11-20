@@ -81,7 +81,7 @@
     "media_shadow_horizontal_offset": -32,
     "media_shadow_vertical_offset": 40,
     "media_shadow_blur": 40,
-    "popup_border_thickness": 3,
+    "popup_border_thickness": 1,
     "popup_border_opacity": 10,
     "popup_corner_radius": 16,
     "popup_shadow_opacity": 5,
@@ -136,6 +136,12 @@
     "blocks": {
       "6986766168588894248": {
         "type": "shopify:\/\/apps\/preorder-now-wolf\/blocks\/app-embed\/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "9830603425545883938": {
+        "type": "shopify:\/\/apps\/event-management-myappgurus\/blocks\/embeded-block\/04cb155d-51d4-41b2-9404-060929405730",
         "disabled": false,
         "settings": {
         }
