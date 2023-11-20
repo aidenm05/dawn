@@ -3540,3 +3540,6 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
+.card.card--standard.card--media {
+    padding: 10px !important;
+}
