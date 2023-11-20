@@ -3502,7 +3502,7 @@ details-disclosure > details {
 /* Custom CSS for Header Menu Items */
 .header__menu-item,
 .header__menu-item a {
-  font-size: 1.5em; /* Increase font size; adjust as needed */
+  font-size: 1.1em; /* Increase font size; adjust as needed */
   padding-left: 25px; /* Add left padding; adjust as needed */
    font-weight: 200;
   letter-spacing: 0.1rem;
