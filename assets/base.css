@@ -3523,5 +3523,10 @@ height: 80px !important;
 
 	}
 
-.quantity {calc(11rem / var(--font-body-scale) + var(--inputs-border-width) * 2);}
+.product__info-wrapper .quantity__button {
+    width: 25px !important;
+}
 
+.product__info-wrapper .quantity {
+    width: 100px !important;
+}
