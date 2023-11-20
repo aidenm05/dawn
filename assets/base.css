@@ -3523,3 +3523,11 @@ height: 80px !important;
 
 	}
 .full-unstyled-link:hover {text-decoration: unset !important;}
+
+.header__menu-item:hover span {
+text-decoration: none;
+}
+
+.footer-block__details-content .list-menu__item--link:hover, .copyright__content a:hover{
+text-decoration: none !important;
+}
