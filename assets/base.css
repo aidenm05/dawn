@@ -3525,12 +3525,11 @@ height: 80px !important;
 
 .product__info-wrapper .quantity__button {
     width: 25px !important;
-  height: 2px !important;
 
 }
 
 .product__info-wrapper .quantity {
     width: 100px !important;
-  height: 20px !important;
+  height: 10px !important;
 
 }
