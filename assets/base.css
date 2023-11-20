@@ -3502,13 +3502,11 @@ details-disclosure > details {
 /* Custom CSS for Header Menu Items */
 .header__menu-item,
 .header__menu-item a {
-  font-size: 1.1em; /* Increase font size; adjust as needed */
+  font-size: 1.5em; /* Increase font size; adjust as needed */
   padding-left: 25px; /* Add left padding; adjust as needed */
-   font-weight: 600;
+   font-weight: 200;
   letter-spacing: 0.1rem;
-  text-decoration: none;
-  margin-bottom: 4.5rem;
-  white-space: nowrap;
+  margin-bottom: 0.5rem;
 }
 .footer__payment .list-payment__item .icon{
  filter: grayscale(100%);
