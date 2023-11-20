@@ -3523,6 +3523,9 @@ height: 80px !important;
 
 	}
 
-.card-wrapper:hover .card-information__text{
+.header__active-menu-item {
+    text-decoration: unset !important;
+}
+.header__menu-item:hover span {
     text-decoration: unset !important;
 }
