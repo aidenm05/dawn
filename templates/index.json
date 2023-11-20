@@ -1,101 +1,69 @@
 {
   "sections": {
-    "c511b632-ebad-479e-b2ca-4ea5c66d83bc": {
-      "type": "multirow",
+    "6b0ea659-aca2-4e16-83e8-543be5bbe52f": {
+      "type": "image-with-text",
       "blocks": {
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20220915_173016_528_1.jpg",
-            "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-2": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-3": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-1",
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-2",
-        "template--15727185854511__c511b632-ebad-479e-b2ca-4ea5c66d83bc-row-3"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 100
-      }
-    },
-    "bf7b4f36-7b2a-42f0-9781-e80bf5880071": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-heading-1": {
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Pre order New Icing On The Kickz Signature Popcorn Flavors",
             "heading_size": "h1"
           }
         },
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-text-1": {
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise!<br\/><\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-heading-1",
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-text-1",
-        "template--15727185854511__bf7b4f36-7b2a-42f0-9781-e80bf5880071-button-1"
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1",
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/Pre_order_now_59941d6b-3fd6-4ece-8db0-4ecf1564331d.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "efb2c8ba-2d01-467d-af37-bf5e405b0fac": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 3,
+        "columns_desktop": 3,
         "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 24
       }
     },
     "c5cacdb4-2e9a-4533-b0f4-96e4902a5226": {
@@ -116,7 +84,7 @@
         "template--15727185854511__c5cacdb4-2e9a-4533-b0f4-96e4902a5226-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "physical-prints"
           }
         }
       },
@@ -137,11 +105,46 @@
         "padding_top": 100,
         "padding_bottom": 36
       }
+    },
+    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join Our Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up and be the first to know about new collections and receive exclusive offers. No spam.<\/p>"
+          }
+        },
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-heading-1",
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-paragraph-1",
+        "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "c511b632-ebad-479e-b2ca-4ea5c66d83bc",
-    "bf7b4f36-7b2a-42f0-9781-e80bf5880071",
-    "c5cacdb4-2e9a-4533-b0f4-96e4902a5226"
+    "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
+    "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
+    "c5cacdb4-2e9a-4533-b0f4-96e4902a5226",
+    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
 }
