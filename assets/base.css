@@ -3522,3 +3522,11 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
+
+.product__info-wrapper .quantity__button {
+    width: 25px !important;
+}
+
+.product__info-wrapper .quantity {
+    width: 100px !important;
+}
