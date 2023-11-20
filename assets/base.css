@@ -3503,7 +3503,7 @@ details-disclosure > details {
 .header__menu-item,
 .header__menu-item a {
   font-size: 1.1em; /* Increase font size; adjust as needed */
-  font-weight: 300; /* Make text bold */
+  font-weight: 500; /* Make text bold */
   padding-left: 25px; /* Add left padding; adjust as needed */
 }
 .footer__payment .list-payment__item .icon{
