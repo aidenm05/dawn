@@ -2828,7 +2828,7 @@ details[open] > .header__menu-item .icon-caret {
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: rgb(var(--color-foreground));
-  text-decoration: underline;
+  text-decoration: none;
   text-underline-offset: 0.3rem;
 }
 
@@ -2871,7 +2871,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__submenu .header__menu-item:hover {
-  text-decoration-line: underline;
+  text-decoration-line: none;
 }
 
 .header__menu-item .icon-caret {
