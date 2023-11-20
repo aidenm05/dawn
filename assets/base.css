@@ -3522,34 +3522,7 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
-.full-unstyled-link:hover {text-decoration: unset !important;}
 
-.header__menu-item:hover span {
-text-decoration: none;
-}
-
-.footer-block__details-content .list-menu__item--link:hover, .copyright__content a:hover{
-text-decoration: none !important;
-}
-
---> For Header Menu Underline
-
-.header__active-menu-item{
-text-decoration: none !important;
-}
-
- 
-
---> For Header DropDown Underline
-
-details[open]>.header__menu-item {
-text-decoration: none !important;
-}
-
- 
-
---> For Footer Menu Underline
-
-.list-menu__item--active{
-text-decoration: none !important;
+.card-wrapper:hover .card-information__text{
+    text-decoration: unset !important;
 }
