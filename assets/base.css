@@ -3515,7 +3515,7 @@ details-disclosure > details {
 height: 80px !important;
 
 }
-/* Artistic frame style for product images */
+/* /* Artistic frame style for product images */
 .product__image-wrapper img {
  border: 15px solid #000; /* Thick black border */
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* Drop shadow for depth effect */
@@ -3535,6 +3535,7 @@ height: 80px !important;
   margin: 50px; /* Space around the image to accommodate shadow */
   display: block; /* Ensure that img behaves correctly with margin */
 }
+*/
 	.card-information .price .price-item {
 		font-weight: 300;
       		font-size: 10px;
