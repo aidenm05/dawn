@@ -3525,9 +3525,3 @@ height: 80px !important;
 
 	}
 
-.header__active-menu-item {
-    text-decoration: unset !important;
-}
-.header__menu-item:hover span {
-    text-decoration: unset !important;
-}
