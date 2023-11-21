@@ -165,7 +165,7 @@
         "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Hey everyone, I’m a 23 year old entrepreneur and I have been doing art for as long as I can remember. I started with drawing for fun around the house to doing drawings and pictures for kids in my middle school. Later, picking it back up in 2020 painting on canvas’s onto making shoes the actual canvas. I started doing shoes as a way to showcase my art for that any audience of any age can participate in. Although it has not always been easy, it’s people like D’ Shay and others who take a chance on me and believe in me that keep me going. It brings me great joy seeing the smiles on people’s faces when they see their vision come to life and knowing I was able to do that for them with the gift God has blessed me with.<\/p>",
+            "text": "<p>Hey everyone, I’m a 23 year old entrepreneur and I have been doing art for as long as I can remember. I started with drawing for fun around the house to doing drawings and pictures for kids in my middle school. Later, picking it back up in 2020 painting on canvas’s onto making shoes the actual canvas. I started doing shoes as a way to showcase my art for that any audience of any age can participate in. Although it has not always been easy, it’s people like D’ Shay and others who take a chance on me and believe in me that keep me going. It brings me great joy seeing the smiles on people’s faces when they see their vision come to life and knowing I was able to do that for them with the gift God has blessed me with. <a href=\"https:\/\/www.instagram.com\/pablo_precasso\/\" title=\"https:\/\/www.instagram.com\/pablo_precasso\/\"><em><strong>@pablo_precasso<\/strong><\/em><\/a><\/p>",
             "text_style": "body"
           }
         },
@@ -240,7 +240,7 @@
         "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A mixed media artist and musician . A true artist all around . Sketching and Doodling stated the path for the man born in Farmville, Virginia . His love for sports and the athletes he idolized that wore them . Sparked a profound love of sneakers . Michael Jordan , Bo Jackson, Barry Sanders etc . He started collecting at 16 with his first paycheck and been in the sneaker culture sense. His artistic expression is an expansion on his childlike imagination. Filled with nostalgia yet futuristic.<\/p>",
+            "text": "<p>A mixed media artist and musician . A true artist all around . Sketching and Doodling stated the path for the man born in Farmville, Virginia . His love for sports and the athletes he idolized that wore them . Sparked a profound love of sneakers . Michael Jordan , Bo Jackson, Barry Sanders etc . He started collecting at 16 with his first paycheck and been in the sneaker culture sense. His artistic expression is an expansion on his childlike imagination. Filled with nostalgia yet futuristic. <a href=\"https:\/\/www.instagram.com\/esoteric.fresh\/\" title=\"https:\/\/www.instagram.com\/esoteric.fresh\/\"><em><strong>@esoteric.fresh<\/strong><\/em><\/a><\/p>",
             "text_style": "body"
           }
         },
@@ -301,69 +301,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6a409d69-ffba-4138-8bef-c0185403367c": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -374,8 +311,6 @@
     "cfa8ebfa-5808-4bda-92f0-b26e98b797aa",
     "9f69a5ee-392e-4498-90f3-d6f87042a178",
     "4c3a99e1-8a41-4dc3-8d7a-16a59b271421",
-    "d5135ba9-a0d9-4153-9eba-0c15e6e71a46",
-    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
-    "6a409d69-ffba-4138-8bef-c0185403367c"
+    "d5135ba9-a0d9-4153-9eba-0c15e6e71a46"
   ]
 }
