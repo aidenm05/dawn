@@ -6,21 +6,30 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Pre order New Icing On The Kickz Signature Popcorn Flavors",
+            "heading": "Pre order New Popcorn Flavors!",
             "heading_size": "h1"
           }
         },
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise!<br\/><\/p>",
+            "text": "<p>Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise<br\/><\/p>",
             "text_style": "body"
+          }
+        },
+        "de312d9d-c6fd-4521-a6d9-b9edae87d927": {
+          "type": "caption",
+          "settings": {
+            "caption": "All orders ship december 3rd",
+            "text_style": "subtitle",
+            "text_size": "small"
           }
         }
       },
       "block_order": [
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1",
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1"
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1",
+        "de312d9d-c6fd-4521-a6d9-b9edae87d927"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pre_order_now_59941d6b-3fd6-4ece-8db0-4ecf1564331d.png",
@@ -36,6 +45,41 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Raffle Giveaway!",
+            "heading_size": "h1"
+          }
+        },
+        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Purchase any bag of signature popcorn and enter for a chance to win a free pair of customized airforce 1s with up to $300 worth of customizations by Naes Custom Kicks",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1",
+        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac": {
@@ -143,6 +187,7 @@
   },
   "order": [
     "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
+    "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "c5cacdb4-2e9a-4533-b0f4-96e4902a5226",
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
