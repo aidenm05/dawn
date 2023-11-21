@@ -1,47 +1,65 @@
 {
   "sections": {
+    "400aace9-5861-4ab2-9b0e-4922d5346de2": {
+      "type": "multirow",
+      "blocks": {
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Hey everyone, I’m a 23 year old entrepreneur and I have been doing art for as long as I can remember. I started with drawing for fun around the house to doing drawings and pictures for kids in my middle school. Later, picking it back up in 2020 painting on canvas’s onto making shoes the actual canvas. I started doing shoes as a way to showcase my art for that any audience of any age can participate in. Although it has not always been easy, it’s people like D’ Shay and others who take a chance on me and believe in me that keep me going. It brings me great joy seeing the smiles on people’s faces when they see their vision come to life and knowing I was able to do that for them with the gift God has blessed me with.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>From pencil drawing to canvas painting, tattooing to body painting, customizing murals down to the latest style of sneakers, Pre Miles is a self taught Professional Artist. Born and raised in Richmond Virginia Where he sharpened his skills he took his talents to new heights. Pre has stepped into the world of fashion to fuse art and fashion together. The ARTrepreneur Uses paint, ink and other materials to express out loud on multiple things he makes his canvases his surrealism. Step into an immersive world of Pablo_Precasso<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-3": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Bobby “ Esoteric Fresh” Simmons ",
+            "text": "<p>A mixed media artist and musician . A true artist all around . Sketching and Doodling stated the path for the man born in Farmville, Virginia . His love for sports and the athletes he idolized that wore them . Sparked a profound love of sneakers . Michael Jordan , Bo Jackson, Barry Sanders etc . He started collecting at 16 with his first paycheck and been in the sneaker culture sense. His artistic expression is an expansion on his childlike imagination. Filled with nostalgia yet futuristic.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-1",
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-2",
+        "template--15881460514863__400aace9-5861-4ab2-9b0e-4922d5346de2-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
         "padding_top": 32,
         "padding_bottom": 0
-      }
-    },
-    "8288a557-7693-42e2-a517-0ecca6c49622": {
-      "type": "collage",
-      "blocks": {
-        "36bed452-3619-42a8-a10d-1a8b54f088d6": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "e06a28d7-cf3a-471f-ae05-13e65cebc93b": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "4ab17209-c735-462d-b058-fa47759b8f2b": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "36bed452-3619-42a8-a10d-1a8b54f088d6",
-        "e06a28d7-cf3a-471f-ae05-13e65cebc93b",
-        "4ab17209-c735-462d-b058-fa47759b8f2b"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
@@ -109,8 +127,8 @@
     }
   },
   "order": [
+    "400aace9-5861-4ab2-9b0e-4922d5346de2",
     "main",
-    "8288a557-7693-42e2-a517-0ecca6c49622",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
     "6a409d69-ffba-4138-8bef-c0185403367c"
   ]
