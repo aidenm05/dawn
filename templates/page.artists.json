@@ -20,14 +20,14 @@
         "template--15881460514863__26b20356-bf47-4a46-810a-bd397dab9596-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Hey everyone, I’m a 23 year old entrepreneur and I have been doing art for as long as I can remember. I started with drawing for fun around the house to doing drawings and pictures for kids in my middle school. Later, picking it back up in 2020 painting on canvas’s onto making shoes the actual canvas. I started doing shoes as a way to showcase my art for that any audience of any age can participate in. Although it has not always been easy, it’s people like D’ Shay and others who take a chance on me and believe in me that keep me going. It brings me great joy seeing the smiles on people’s faces when they see their vision come to life and knowing I was able to do that for them with the gift God has blessed me with.<\/p>",
+            "text": "<p>Hey everyone, I’m a 23 year old entrepreneur and I have been doing art for as long as I can remember. I started with drawing for fun around the house to doing drawings and pictures for kids in my middle school. Later, picking it back up in 2020 painting on canvas’s onto making shoes the actual canvas. I started doing shoes as a way to showcase my art for that any audience of any age can participate in. Although it has not always been easy, it’s people like D’ Shay and others who take a chance on me and believe in me that keep me going. It brings me great joy seeing the smiles on people’s faces when they see their vision come to life and knowing I was able to do that for them with the gift God has blessed me with.  <a href=\"https:\/\/www.instagram.com\/naecustomkicks\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/naecustomkicks\/\"><em><strong>@naecustomkicks<\/strong><\/em><\/a><\/p>",
             "text_style": "body"
           }
         },
         "template--15881460514863__26b20356-bf47-4a46-810a-bd397dab9596-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -49,9 +49,9 @@
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "52517bee-43a7-4a79-b905-3308882234ee": {
@@ -60,8 +60,9 @@
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/350719213_277302344754461_5059675645722100399_n_03669477-acfe-4cda-8ced-1d10948a3e67.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -69,8 +70,9 @@
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/313859912_208651411519348_1960823116957380894_n.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -78,8 +80,9 @@
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/355424248_796542095449861_839467012321736969_n.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -91,20 +94,20 @@
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-3"
       ],
       "settings": {
-        "title": "Previous Customz",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "bd77ead8-76f3-42b8-b6c6-c92be98fe3a6": {
@@ -113,20 +116,20 @@
         "template--15881460514863__bd77ead8-76f3-42b8-b6c6-c92be98fe3a6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Grab a Pair!",
             "heading_size": "h1"
           }
         },
         "template--15881460514863__bd77ead8-76f3-42b8-b6c6-c92be98fe3a6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Experience the excitement of owning a pair of custom kicks that are tailored to your exact specifications. Reach out to me and explore my previous work, and together we can turn your vision into a reality. Inquiries start at #$.<\/p>"
           }
         },
         "template--15881460514863__bd77ead8-76f3-42b8-b6c6-c92be98fe3a6-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Conatct",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -169,7 +172,7 @@
         "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "My Framed Prints",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -244,7 +247,7 @@
         "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "My Framed Prints",
             "button_link": "",
             "button_style_secondary": false
           }
