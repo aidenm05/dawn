@@ -3524,11 +3524,3 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
-
-.footer-block.grid__item.footer-block--menu {
-    width: 50%;
-    float: left;
-}
-a.link.link--text.list-menu__item.list-menu__item--link {
-    padding: 2px;
-}
