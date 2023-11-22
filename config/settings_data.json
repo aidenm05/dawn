@@ -4,7 +4,7 @@
     "logo_width": 90,
     "favicon": "shopify:\/\/shop_images\/Untitled_design_6.svg",
     "type_header_font": "montserrat_n5",
-    "heading_scale": 110,
+    "heading_scale": 100,
     "type_body_font": "roboto_n4",
     "body_scale": 105,
     "page_width": 1300,
@@ -95,9 +95,11 @@
     "drawer_shadow_vertical_offset": 4,
     "drawer_shadow_blur": 5,
     "badge_position": "bottom left",
-    "badge_corner_radius": 16,
+    "badge_corner_radius": 8,
     "sale_badge_color_scheme": "background-1",
     "sold_out_badge_color_scheme": "inverse",
+    "brand_headline": "IOTKz",
+    "brand_description": "<p>Welcome to Icing on The Kicks! We're the real deal spot for unique finds – from sleek handcrafted bracelets to the sickest art. Ready to level up your snack game and jewelry box? We got you. Keep it fresh, keep it Icing on The Kicks.<\/p>",
     "social_facebook_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/icingonthekickz\/",
     "social_youtube_link": "",
@@ -194,13 +196,13 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#334fb4",
+          "background": "#d9d9d9",
           "background_gradient": "",
-          "text": "#ffffff",
-          "button": "#ffffff",
+          "text": "#000000",
+          "button": "#fff",
           "button_label": "#334fb4",
-          "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "secondary_button_label": "#000000",
+          "shadow": "#000000"
         }
       }
     }

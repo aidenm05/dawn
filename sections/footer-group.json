@@ -4,18 +4,53 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "539cc2dc-ae23-4f61-a42b-d157fa8b6b4a": {
+          "type": "link_list",
+          "settings": {
+            "heading": "QUICK LINKS",
+            "menu": "temp"
+          }
+        },
+        "da49a1e9-6894-47a2-af72-df1f48cb1f66": {
+          "type": "link_list",
+          "settings": {
+            "heading": "ABOUT",
+            "menu": "footer"
+          }
+        },
+        "33f906c6-5102-42ce-9878-f97068b9603d": {
+          "type": "text",
+          "settings": {
+            "heading": "GET IN TOUCH",
+            "subtext": "<p>Feel Free to contact <\/p><p>via email:<\/p><p>@<strong>lavaldshay@gmail.com<\/strong><\/p><p>Our address:<\/p><p><strong>504 Little Margaret Ln, Henrico Virginia 23075, United States<\/strong><\/p>"
+          }
+        },
+        "b3bcafee-8a31-41da-8f45-e0a499609982": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "539cc2dc-ae23-4f61-a42b-d157fa8b6b4a",
+        "da49a1e9-6894-47a2-af72-df1f48cb1f66",
+        "33f906c6-5102-42ce-9878-f97068b9603d",
+        "b3bcafee-8a31-41da-8f45-e0a499609982"
+      ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_heading": "Join Our Newsletter",
         "enable_follow_on_shop": false,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": true,
-        "margin_top": 0,
-        "padding_top": 0,
+        "show_policy": false,
+        "margin_top": 12,
+        "padding_top": 32,
         "padding_bottom": 8
       }
     }
