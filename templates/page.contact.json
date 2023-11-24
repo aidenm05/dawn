@@ -1,7 +1,50 @@
 {
   "sections": {
+    "4b23bf8d-e529-4e2c-990f-e3756884f772": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact",
+            "heading_size": "h1"
+          }
+        },
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you an owner interested in carrying IOTKz in your sneaker shop?  Contact us via phone or email us and we'll respond within 2 business days.<\/p>"
+          }
+        },
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-heading-1",
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-text-1",
+        "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
@@ -19,6 +62,7 @@
     }
   },
   "order": [
+    "4b23bf8d-e529-4e2c-990f-e3756884f772",
     "main",
     "form"
   ]
