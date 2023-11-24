@@ -140,13 +140,25 @@
         "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you live in the Richmond Virginia area, or the Miami, area and would like to coordinate a holiday pickup, please contact us.<\/p>"
+            "text": "<p>If you live in the Richmond, VA area, or the Miami, FL area and would like to coordinate a holiday pickup, please contact us.<\/p>"
+          }
+        },
+        "7a73dde3-3300-4a4b-bcd0-8e159f31efbf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact",
+            "button_link": "shopify:\/\/pages\/sneaker-art",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-heading-1",
-        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1"
+        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1",
+        "7a73dde3-3300-4a4b-bcd0-8e159f31efbf"
       ],
       "settings": {
         "desktop_content_position": "center",
