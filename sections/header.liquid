@@ -235,12 +235,16 @@
       {%- endif -%}
     {%- endif -%}
 
-    <style>
-  .header__icon--cart,
-  .cart-count-bubble,
-  .instagram-link-container {
-    display: inline-block;
-    vertical-align: middle;
+  <style>
+  .header__icons {
+    display: flex;
+    align-items: center;
+  }
+
+  .header__icons .header__icon--cart,
+  .header__icons .cart-count-bubble,
+  .header__icons .instagram-link-container {
+    margin-right: 10px; /* Adjust the margin as needed for spacing */
   }
 </style>
 <div class="header__icons{% if section.settings.enable_country_selector or section.settings.enable_language_selector %} header__icons--localization header-localization{% endif %}">
