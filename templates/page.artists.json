@@ -30,7 +30,7 @@
         "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/5_bd21e923-13ab-41b7-bd12-31f1eb194e8a.png",
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-23-09-34-05_2_28b56003-654c-45b7-aff7-cd9286863cc7.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -158,58 +158,30 @@
         "padding_bottom": 36
       }
     },
-    "af9b6c8f-8d1b-46de-baa6-6610c2dff480": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9389993_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/img-20160814-153624_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/img-20180201-215008-821_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1",
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2",
-        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c"
-      ],
+    "a8082475-1276-4d9c-beaa-22045acde647": {
+      "type": "featured-collection",
       "settings": {
         "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "steve-art",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -498,7 +470,7 @@
     "cfa8ebfa-5808-4bda-92f0-b26e98b797aa",
     "e3cfb6c9-cffe-419a-87c9-418134a99fff",
     "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845",
-    "af9b6c8f-8d1b-46de-baa6-6610c2dff480",
+    "a8082475-1276-4d9c-beaa-22045acde647",
     "26b20356-bf47-4a46-810a-bd397dab9596",
     "52517bee-43a7-4a79-b905-3308882234ee",
     "bd77ead8-76f3-42b8-b6c6-c92be98fe3a6",
