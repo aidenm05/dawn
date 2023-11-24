@@ -42,7 +42,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "e0d395d8-3e27-4eac-a675-379e0c400888": {
@@ -130,7 +130,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 8,
         "padding_bottom": 36
       }
     },
