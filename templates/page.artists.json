@@ -63,18 +63,17 @@
             "image_padding": false
           }
         },
-        "template--15881460514863__e0d395d8-3e27-4eac-a675-379e0c400888-product-1": {
-          "type": "product",
+        "8fea137e-3d5a-4aa0-aaa7-aa0da581ed6d": {
+          "type": "collection",
           "settings": {
-            "product": "bracelet-37",
-            "second_image": false
+            "collection": ""
           }
         }
       },
       "block_order": [
         "template--15881460514863__e0d395d8-3e27-4eac-a675-379e0c400888-collection-1",
         "template--15881460514863__e0d395d8-3e27-4eac-a675-379e0c400888-video-1",
-        "template--15881460514863__e0d395d8-3e27-4eac-a675-379e0c400888-product-1"
+        "8fea137e-3d5a-4aa0-aaa7-aa0da581ed6d"
       ],
       "settings": {
         "heading": "",
