@@ -1286,13 +1286,3 @@ class ProductRecommendations extends HTMLElement {
     new IntersectionObserver(handleIntersection.bind(this), { rootMargin: '0px 0px 400px 0px' }).observe(this);
   }
 }
-
-customElements.define('product-recommendations', ProductRecommendations);
-
-const boxes = document.querySelectorAll('.menu-drawer-container');
-
-for (const box of boxes) {
-  box.addEventListener('click', function handleClick() {
-    box.classList.add('menu-opening');
-  });
-}
