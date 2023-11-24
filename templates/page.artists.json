@@ -85,7 +85,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-02-22.jpg",
-            "title": "",
+            "title": "<a href=\"\/pages\/event-management-page\" title=\"Event Management page\">Paint PartiezZ<\/a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -95,7 +95,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
-            "title": "",
+            "title": "<a href=\"\/pages\/iotkz-signature-popcorn\" title=\"IOTKz Signature Popcorn\">Signature Popcorn <\/a>",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/bracelet-45"
@@ -105,7 +105,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-13-42-38.jpg",
-            "title": "",
+            "title": "<a href=\"\/pages\/shop-art\" title=\"Framed Art\">Art<\/a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -115,7 +115,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-09-51-24_1.jpg",
-            "title": "",
+            "title": "<a href=\"\/pages\/kick-crazy-winetails\" title=\"Kick Crazy Winetailz\">WinetailzZ<\/a>",
             "text": "",
             "link_label": "",
             "link": ""
