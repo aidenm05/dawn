@@ -128,6 +128,9 @@
         "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-3",
         "e56a4ddd-dfa1-4a97-8736-ba1ca1daa4f1"
       ],
+      "custom_css": [
+        ".multicolumn-list__item.grid__item {border: 3px solid black;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -371,6 +374,9 @@
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-1",
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-2",
         "template--15881460514863__52517bee-43a7-4a79-b905-3308882234ee-column-3"
+      ],
+      "custom_css": [
+        ".multicolumn-list__item.grid__item {border: 3px solid black;}"
       ],
       "settings": {
         "title": "",
