@@ -32,7 +32,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/PHOTO-2023-11-23-09-34-05_2_28b56003-654c-45b7-aff7-cd9286863cc7.jpg",
         "height": "medium",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
