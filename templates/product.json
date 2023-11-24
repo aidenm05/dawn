@@ -36,11 +36,17 @@
           "settings": {
           }
         },
-        "5515ae25-a9cc-48b9-ac3b-23de9cbf5dcf": {
+        "a6a47687-02a8-4f86-967c-7e30ecbc6fc4": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Weight: {% for variant in product.variants %}{{variant.weight |weight_with_unit }}{% endfor %}"
+          }
+        },
+        "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         }
       },
@@ -51,7 +57,8 @@
         "variant_picker",
         "quantity_selector",
         "description",
-        "5515ae25-a9cc-48b9-ac3b-23de9cbf5dcf"
+        "a6a47687-02a8-4f86-967c-7e30ecbc6fc4",
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
