@@ -53,8 +53,9 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/20200214_202716_1.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -62,8 +63,9 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/20200214_212412_1.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -78,7 +80,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
