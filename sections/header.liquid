@@ -333,6 +333,14 @@
             {%- endif -%}
             <span class="visually-hidden">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
           </div>
+        {%- if settings.social_instagram_link != blank -%}
+  <div class="instagram-link-container">
+    <a href="{{ settings.social_instagram_link }}" class="instagram-link">
+      {%- render 'icon-instagram' -%}
+      <span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
+    </a>
+  </div>
+{%- endif -%}
         {%- endif -%}
       </a>
     </div>
@@ -687,14 +695,3 @@
   ]
 }
 {% endschema %}
-
-<ul class="list list-social list-unstyled" role="list">
-{%- if settings.social_instagram_link != blank -%}
-<li class="list-social__item">
-<a href="{{ settings.social_instagram_link }}" class="list-social__link link">
-{%- render 'icon-instagram' -%}
-<span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
-</a>
-</li>
-
-{%- endif -%}
