@@ -127,6 +127,36 @@
         "padding_bottom": 24
       }
     },
+    "142260ca-e326-445f-a9e1-210402c946cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Local Pickup<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you live in the Richmond, Virginia, or Miami area and would like to coordinate a pickup, please contact us.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-heading-1",
+        "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0": {
       "type": "newsletter",
       "blocks": {
@@ -167,6 +197,7 @@
     "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
+    "142260ca-e326-445f-a9e1-210402c946cd",
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
 }
