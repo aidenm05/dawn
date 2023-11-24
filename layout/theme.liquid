@@ -336,5 +336,19 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    <style>
+      .rte a{
+          text-decoration: none;
+      }
+      .rte a:hover{
+      	text-decoration: underline;
+      }
+    </style>
+    <style>
+      body.gempage.overflow-hidden-mobile,
+      body.gempage.overflow-hidden-tablet {
+        overflow: hidden !important;
+      }
+    </style>
   </body>
 </html>
