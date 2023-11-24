@@ -105,7 +105,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-13-42-38.jpg",
-            "title": "<a href=\"\/pages\/shop-art\" title=\"Framed Art\">Art<\/a>",
+            "title": "Art",
             "text": "",
             "link_label": "",
             "link": ""
