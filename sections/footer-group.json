@@ -29,7 +29,7 @@
         "b3bcafee-8a31-41da-8f45-e0a499609982": {
           "type": "brand_information",
           "settings": {
-            "show_social": false
+            "show_social": true
           }
         }
       },

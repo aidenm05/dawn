@@ -42,6 +42,13 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
+        },
+        "8b36d750-6c72-49da-8602-6328c5b2ee42": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -51,7 +58,8 @@
         "variant_picker",
         "quantity_selector",
         "description",
-        "buy_buttons"
+        "buy_buttons",
+        "8b36d750-6c72-49da-8602-6328c5b2ee42"
       ],
       "settings": {
         "enable_sticky_info": true,
