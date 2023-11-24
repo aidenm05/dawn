@@ -333,14 +333,12 @@
             {%- endif -%}
             <span class="visually-hidden">{{ 'sections.header.cart_count' | t: count: cart.item_count }}</span>
           </div>
-      {%- if settings.social_instagram_link != blank -%}
-  <a href="{{ settings.social_instagram_link }}" class="instagram-link focus-inset">
-    {%- render 'icon-instagram' -%}
-    <span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
-  </a>
-{%- endif -%}
+    <a href="{{ settings.social_instagram_link }}" class="instagram-link focus-inset">
+  {%- render 'icon-instagram' -%}
+  <span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
+</a>
 
-{%- endif -%}
+        {%- endif -%}
       </a>
     </div>
   </header>
