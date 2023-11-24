@@ -39,7 +39,7 @@
         "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-23-09-34-05_1.jpg",
+        "image": "shopify:\/\/shop_images\/5_bd21e923-13ab-41b7-bd12-31f1eb194e8a.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -88,6 +88,34 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e3cfb6c9-cffe-419a-87c9-418134a99fff": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pablo-art",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -477,6 +505,7 @@
     "main",
     "1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153",
     "cfa8ebfa-5808-4bda-92f0-b26e98b797aa",
+    "e3cfb6c9-cffe-419a-87c9-418134a99fff",
     "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845",
     "af9b6c8f-8d1b-46de-baa6-6610c2dff480",
     "26b20356-bf47-4a46-810a-bd397dab9596",
