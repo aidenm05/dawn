@@ -147,6 +147,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "7428323069960965799": {
+        "type": "shopify:\/\/apps\/shipbar-free-shipping-bar\/blocks\/app-embed\/7858de86-21a8-4a6d-b8f0-5a40610c0e61",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
