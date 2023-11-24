@@ -206,20 +206,11 @@
             "text": "<p>A mixed media artist and musician . A true artist all around . Sketching and Doodling stated the path for the man born in Farmville, Virginia . His love for sports and the athletes he idolized that wore them . Sparked a profound love of sneakers . Michael Jordan , Bo Jackson, Barry Sanders etc . He started collecting at 16 with his first paycheck and been in the sneaker culture sense. His artistic expression is an expansion on his childlike imagination. Filled with nostalgia yet futuristic. <a href=\"https:\/\/www.instagram.com\/esoteric.fresh\/\" title=\"https:\/\/www.instagram.com\/esoteric.fresh\/\"><em><strong>@esoteric.fresh<\/strong><\/em><\/a><\/p>",
             "text_style": "body"
           }
-        },
-        "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "My Framed Prints",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-heading-1",
-        "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-text-1",
-        "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-button-1"
+        "template--15881460514863__4c3a99e1-8a41-4dc3-8d7a-16a59b271421-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/776A73DD_19b9874b-e8c4-4b74-a0be-9312cb8520bf.jpg",
@@ -373,7 +364,7 @@
         "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Justice",
             "heading_size": "h1"
           }
         },
@@ -383,20 +374,11 @@
             "text": "<p>Justice, a self-taught graphic artist from Richmond, Virginia, began crafting designs at a young age. Fueled by a deep affection for sneakers, particularly the iconic Jordan 1s, Justice's graphic art reflects a blend of personal expression and a passion for sneaker culture.<a href=\"https:\/\/www.instagram.com\/xjusticelo\/\" title=\"https:\/\/www.instagram.com\/xjusticelo\/\"><strong>@xjusticelo<\/strong><\/a><\/p>",
             "text_style": "body"
           }
-        },
-        "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-heading-1",
-        "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-text-1",
-        "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-button-1"
+        "template--15881460514863__b35cbbb8-9c64-46ee-a132-f66d2d6d62c5-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PHOTO-2023-11-22-22-13-15.jpg",
