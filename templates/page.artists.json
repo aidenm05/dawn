@@ -7,6 +7,194 @@
         "padding_bottom": 0
       }
     },
+    "1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "D'Shay Like Da Vinci",
+            "heading_size": "h1"
+          }
+        },
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>D'Shay Like Da Vinci of RVA got his first pair of 9'z when he was 9 yrz old: his age has matched each annual release from the Jordan brand to this day.  His love for kickz is different; not being a heavy collector, but more into celebrating the art of them & all the dope concepts they breed.  His first gig outside of a 9 to 5 was assisting at paint parties...so he started throwing his own.  The parties needed munchies. So, he got with a gourmet popcorn company to make his custom flavors.  As a 10-year career bartender, it was only right to come out with Kick Crazy Winetails for the party goers, a collab with local company Shoe Crazy Wine.  Though being a potential great hip hop artist all througout the process, the typical cypher couldn't hold his attention so he started rapping about sneaks.  Gaudy gold jewelry wasn't for him either, so he made his own to match every new pair.  The jewelry was unique & soon became a business....but the problem was, it appeared a little flat on his vendor tables, so he employed artists to let him display their work on consignment.  All of this to say Icing On The Kickz was born organically and is literally D'Shay's LIFE on a site!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-heading-1",
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-text-1",
+        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-23-09-34-05_1.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cfa8ebfa-5808-4bda-92f0-b26e98b797aa": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre Precasso Miles",
+            "heading_size": "h1"
+          }
+        },
+        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From pencil drawing to canvas painting, tattooing to body painting, customizing murals down to the latest style of sneakers, Pre Miles is a self taught Professional Artist. Born and raised in Richmond Virginia Where he sharpened his skills he took his talents to new heights. Pre has stepped into the world of fashion to fuse art and fashion together. The ARTrepreneur Uses paint, ink and other materials to express out loud on multiple things he makes his canvases his surrealism. Step into an immersive world of <a href=\"https:\/\/www.instagram.com\/pablo_precasso\/\" title=\"https:\/\/www.instagram.com\/pablo_precasso\/\"><em><strong>@pablo_precasso<\/strong><\/em><\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-heading-1",
+        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1284.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Steve Alvara",
+            "heading_size": "h1"
+          }
+        },
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Steve Alvara has had a love for art since 7, when a fascination for comic books came about.  Drawing simple cartoon characters was easy for him to master.  This served as a perfect, early training ground to become who he is today: an artist who can paint anything he sees.  His 2 favorite artists are Michaelangelo & Leonardo Da Vinci; ironically in 2019 he would post an ad offering art lessons, and D'Shay Like Da Vinci of IOTKz would respond, needing art lessons to guide attendees at his paint & sips.  But once D'Shay saw Steve-O's sneaker art look so real that you could almost grab it off the canvas, he new his art would thrive in the sneaker world.  4 years later, they have collaborated on countless pieces of art.  Aside from IOTKz, Steve proudly owns Paint Works plus, a company specializing in commercial & residential painting, murals and anything you can see; )  <a href=\"https:\/\/www.instagram.com\/stevesart4u\/\" title=\"https:\/\/www.instagram.com\/stevesart4u\/\"><strong>@stevesart4u<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-heading-1",
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-text-1",
+        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/19527901_orig.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "af9b6c8f-8d1b-46de-baa6-6610c2dff480": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9389993_orig.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img-20160814-153624_orig.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img-20180201-215008-821_orig.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1",
+        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2",
+        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "26b20356-bf47-4a46-810a-bd397dab9596": {
       "type": "image-with-text",
       "blocks": {
@@ -42,7 +230,7 @@
         "image": "shopify:\/\/shop_images\/Facetune.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -152,44 +340,6 @@
         "padding_bottom": 52
       }
     },
-    "cfa8ebfa-5808-4bda-92f0-b26e98b797aa": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Pre Precasso Miles",
-            "heading_size": "h1"
-          }
-        },
-        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>From pencil drawing to canvas painting, tattooing to body painting, customizing murals down to the latest style of sneakers, Pre Miles is a self taught Professional Artist. Born and raised in Richmond Virginia Where he sharpened his skills he took his talents to new heights. Pre has stepped into the world of fashion to fuse art and fashion together. The ARTrepreneur Uses paint, ink and other materials to express out loud on multiple things he makes his canvases his surrealism. Step into an immersive world of <a href=\"https:\/\/www.instagram.com\/pablo_precasso\/\" title=\"https:\/\/www.instagram.com\/pablo_precasso\/\"><em><strong>@pablo_precasso<\/strong><\/em><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-heading-1",
-        "template--15881460514863__cfa8ebfa-5808-4bda-92f0-b26e98b797aa-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_1284.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4c3a99e1-8a41-4dc3-8d7a-16a59b271421": {
       "type": "image-with-text",
       "blocks": {
@@ -256,108 +406,6 @@
         "padding_bottom": 36
       }
     },
-    "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Steve Alvara",
-            "heading_size": "h1"
-          }
-        },
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Steve Alvara has had a love for art since 7, when a fascination for comic books came about.  Drawing simple cartoon characters was easy for him to master.  This served as a perfect, early training ground to become who he is today: an artist who can paint anything he sees.  His 2 favorite artists are Michaelangelo & Leonardo Da Vinci; ironically in 2019 he would post an ad offering art lessons, and D'Shay Like Da Vinci of IOTKz would respond, needing art lessons to guide attendees at his paint & sips.  But once D'Shay saw Steve-O's sneaker art look so real that you could almost grab it off the canvas, he new his art would thrive in the sneaker world.  4 years later, they have collaborated on countless pieces of art.  Aside from IOTKz, Steve proudly owns Paint Works plus, a company specializing in commercial & residential painting, murals and anything you can see; )  <a href=\"https:\/\/www.instagram.com\/stevesart4u\/\" title=\"https:\/\/www.instagram.com\/stevesart4u\/\"><strong>@stevesart4u<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-heading-1",
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-text-1",
-        "template--15881460514863__f1b02bbe-63e6-4e88-ae0a-df7bd7b70845-button-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "af9b6c8f-8d1b-46de-baa6-6610c2dff480": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9389993_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19527901_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/img-20180201-215008-821_orig.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-1",
-        "template--15881460514863__af9b6c8f-8d1b-46de-baa6-6610c2dff480-column-2",
-        "0ee48949-ed18-4dc6-886d-3a6bf1fb786c"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "b35cbbb8-9c64-46ee-a132-f66d2d6d62c5": {
       "type": "image-with-text",
       "blocks": {
@@ -384,7 +432,7 @@
         "image": "shopify:\/\/shop_images\/PHOTO-2023-11-22-22-13-15.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -423,67 +471,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-heading-1",
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-text-1",
-        "template--15881460514863__1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-23-09-34-05_1.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
+    "1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153",
+    "cfa8ebfa-5808-4bda-92f0-b26e98b797aa",
+    "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845",
+    "af9b6c8f-8d1b-46de-baa6-6610c2dff480",
     "26b20356-bf47-4a46-810a-bd397dab9596",
     "52517bee-43a7-4a79-b905-3308882234ee",
     "bd77ead8-76f3-42b8-b6c6-c92be98fe3a6",
-    "cfa8ebfa-5808-4bda-92f0-b26e98b797aa",
     "4c3a99e1-8a41-4dc3-8d7a-16a59b271421",
     "d5135ba9-a0d9-4153-9eba-0c15e6e71a46",
-    "f1b02bbe-63e6-4e88-ae0a-df7bd7b70845",
-    "af9b6c8f-8d1b-46de-baa6-6610c2dff480",
     "b35cbbb8-9c64-46ee-a132-f66d2d6d62c5",
-    "658d8642-8422-4311-a768-3810178bf892",
-    "1c1fb40b-0a7c-46c6-bd1d-99c6a0d48153"
+    "658d8642-8422-4311-a768-3810178bf892"
   ]
 }
