@@ -110,12 +110,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "e56a4ddd-dfa1-4a97-8736-ba1ca1daa4f1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-09-51-24_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-1",
         "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-2",
-        "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-3"
+        "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-3",
+        "e56a4ddd-dfa1-4a97-8736-ba1ca1daa4f1"
       ],
       "settings": {
         "title": "",
@@ -256,8 +267,8 @@
         "show_description": false,
         "description_style": "body",
         "collection": "steve-art",
-        "products_to_show": 3,
-        "columns_desktop": 3,
+        "products_to_show": 4,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
