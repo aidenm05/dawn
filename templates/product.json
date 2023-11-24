@@ -36,12 +36,6 @@
           "settings": {
           }
         },
-        "a6a47687-02a8-4f86-967c-7e30ecbc6fc4": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "Weight: {% for variant in product.variants %}{{variant.weight |weight_with_unit }}{% endfor %}"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -57,7 +51,6 @@
         "variant_picker",
         "quantity_selector",
         "description",
-        "a6a47687-02a8-4f86-967c-7e30ecbc6fc4",
         "buy_buttons"
       ],
       "settings": {
