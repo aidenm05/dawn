@@ -132,12 +132,53 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "a0aa99c8-9040-4b19-b67c-87a083d7b51d": {
+      "type": "collage",
+      "blocks": {
+        "c8a0f90c-fa26-48a3-a934-3ccc21a87da2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-10-25-13-24-01.jpg",
+            "image_padding": false
+          }
+        },
+        "a59d6dac-8037-4eb7-991a-7fab24e44bb0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reelvideo-23939.jpg",
+            "image_padding": false
+          }
+        },
+        "90112315-499a-4278-8fb1-b9668c76f294": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-22-22-47-43_2.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "c8a0f90c-fa26-48a3-a934-3ccc21a87da2",
+        "a59d6dac-8037-4eb7-991a-7fab24e44bb0",
+        "90112315-499a-4278-8fb1-b9668c76f294"
+      ],
+      "settings": {
+        "heading": "Sneaker Events!",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 88
+      }
     }
   },
   "order": [
     "0c864232-6598-4242-8b75-68c77923db84",
     "main",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
-    "8288a557-7693-42e2-a517-0ecca6c49622"
+    "8288a557-7693-42e2-a517-0ecca6c49622",
+    "a0aa99c8-9040-4b19-b67c-87a083d7b51d"
   ]
 }
