@@ -1288,11 +1288,3 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
-
-const boxes = document.querySelectorAll('.menu-drawer-container');
-
-for (const box of boxes) {
-  box.addEventListener('click', function handleClick() {
-    box.classList.add('menu-opening');
-  });
-}
