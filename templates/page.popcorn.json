@@ -2,9 +2,48 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 32,
         "padding_bottom": 0
+      }
+    },
+    "1b76dbbe-bf84-47fa-94c9-5abb561a4d28": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "IOTKz Signature Popcorn",
+            "heading_size": "h1"
+          }
+        },
+        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whoever would have thought that a sneaker art brand would have their own POPCORN!!! We present to you our signature popcorn series inspired by some of your favorite KICKZ!  Our Grape & Cheeseboard popcorn goes especially well with wine, cocktails and was made especially to pair with our Kick Crazy Winetailz, powered by Shoe Crazy Wine, dropping in 2024!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-heading-1",
+        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-17-38_2.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38": {
@@ -150,6 +189,7 @@
   },
   "order": [
     "main",
+    "1b76dbbe-bf84-47fa-94c9-5abb561a4d28",
     "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38",
     "e010cc06-22c8-4f94-85bf-04759a772adc",
     "86ca6aa1-c6c8-40f8-b373-899db235dc66"
