@@ -95,14 +95,14 @@
     "e3cfb6c9-cffe-419a-87c9-418134a99fff": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "pablo-art",
         "products_to_show": 2,
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
