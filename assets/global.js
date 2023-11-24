@@ -8,22 +8,22 @@ function getFocusableElements(container) {
 
 document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
 
-    // Add this code make menu appears on hover
-  summary.addEventListener('mouseover', (event) => {
-   const menuDetails = event.currentTarget.closest('details');
-   const menuListContainer = menuDetails.closest('ul')
-   event.currentTarget.setAttribute('aria-expanded', 'true');
-   menuDetails.setAttribute('open', 'true');
+  //   // Add this code make menu appears on hover
+  // summary.addEventListener('mouseover', (event) => {
+  //  const menuDetails = event.currentTarget.closest('details');
+  //  const menuListContainer = menuDetails.closest('ul')
+  //  event.currentTarget.setAttribute('aria-expanded', 'true');
+  //  menuDetails.setAttribute('open', 'true');
 
-    menuListContainer.addEventListener('mouseleave', () => {
-      menuDetails.removeAttribute('open');
-      summary.setAttribute('aria-expanded', 'false');
-    });
+  //   menuListContainer.addEventListener('mouseleave', () => {
+  //     menuDetails.removeAttribute('open');
+  //     summary.setAttribute('aria-expanded', 'false');
+  //   });
 
-    menuDetails.addEventListener("mouseleave", () => {
-      menuDetails.removeAttribute("open");
-      summary.setAttribute('aria-expanded', 'false');
-    });
+  //   menuDetails.addEventListener("mouseleave", () => {
+  //     menuDetails.removeAttribute("open");
+  //     summary.setAttribute('aria-expanded', 'false');
+  //   });
 
   });
   summary.setAttribute('role', 'button');
