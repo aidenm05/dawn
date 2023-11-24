@@ -3524,8 +3524,3 @@ height: 80px !important;
       		font-size: 10px;
 
 	}
-.js details[open]>.menu-drawer, .js details[open]>.menu-drawer__submenu {
-    transition: transform var(--duration-default) ease,visibility var(--duration-default) ease;
-    visibility: visible;
-    transform: translate(0%);
-}
