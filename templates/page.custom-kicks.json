@@ -14,14 +14,14 @@
         "template--15881399009327__3dc9a88e-1ec6-4834-9a60-cc7c55811eec-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "CustomzZ By Nae",
-            "heading_size": "h1"
+            "heading": "<strong>CustomzZ By Nae<\/strong>",
+            "heading_size": "hxl"
           }
         },
         "6e459a69-6399-462d-a433-448b51f29e0f": {
           "type": "text",
           "settings": {
-            "text": "<p>Icing On The Kickz holds the bar high when it comes to customzZ!  Nae Custom Kickz was hand selected to be our in-house sneaker customizer because of her creativity and most importantly her eye for DETAIL!  Checkout her work below and on IG for more @naecustomkicks.  Contact us when you're ready for top notch artistry, we are always ready for our next project!<\/p>"
+            "text": "<h2>Icing On The Kickz holds the bar high when it comes to customzZ!  Nae Custom Kickz was hand selected to be our in-house sneaker customizer because of her creativity and most importantly her eye for DETAIL!  Checkout her work below and on IG for more @naecustomkicks.  Contact us when you're ready for top notch artistry, we are always ready for our next project!<\/h2>"
           }
         }
       },
@@ -35,7 +35,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 16
+        "padding_bottom": 76
       }
     },
     "8288a557-7693-42e2-a517-0ecca6c49622": {

@@ -6,14 +6,14 @@
         "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Contact",
+            "heading": "Contact:",
             "heading_size": "h1"
           }
         },
         "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Are you an owner interested in carrying IOTKz in your sneaker shop?  Contact us via phone or email us and we'll respond within 2 business days.<\/p>"
+            "text": "<p><\/p><p><strong>For Shop Owners:<\/strong><br\/>Are you an owner interested in carrying IOTKz in your sneaker shop?  Contact us via phone or email us and we'll respond within 2 business days.<\/p><p><strong>For Customers:<\/strong><br\/>If you're a customer with questions, requests, or customz inquiries, we're here to assist you! Whether you're seeking more information about our products, have a specific request, or want to inquire about customizing your sneakers, we've got you covered. Reach out to us via phone or email, and will address your queries promptly. <\/p>"
           }
         },
         "template--15727185821743__4b23bf8d-e529-4e2c-990f-e3756884f772-button-1": {
@@ -38,7 +38,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 28,
         "padding_bottom": 52
       }
     },
@@ -56,7 +56,7 @@
         "heading": "",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }

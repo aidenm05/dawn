@@ -6,8 +6,8 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Pre order New Popcorn Flavors!",
-            "heading_size": "h1"
+            "heading": "<strong>Pre order New Popcorn Flavors!<\/strong>",
+            "heading_size": "h0"
           }
         },
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
@@ -42,7 +42,7 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Raffle Giveaway!",
+            "heading": "<strong>Raffle Giveaway!<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -83,6 +83,22 @@
         "padding_bottom": 0
       }
     },
+    "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Holiday Raffle Promo Video.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-00-24-43.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac": {
       "type": "featured-collection",
       "settings": {
@@ -91,7 +107,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "frontpage",
+        "collection": "popcorn",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
@@ -144,29 +160,13 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Holiday Raffle Promo Video.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-00-24-43.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
+    "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
-    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0",
-    "29bfcd07-aedc-4bde-99e7-9a00ee7d1572"
+    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
 }
