@@ -20,14 +20,14 @@
         "e06a28d7-cf3a-471f-ae05-13e65cebc93b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/38.png",
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-22-22-47-43.jpg",
             "image_padding": false
           }
         },
         "4ab17209-c735-462d-b058-fa47759b8f2b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/49.png",
+            "image": "shopify:\/\/shop_images\/20230624_191932.jpg",
             "image_padding": false
           }
         }
@@ -55,7 +55,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "wintailz",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,

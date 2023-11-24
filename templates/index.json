@@ -80,6 +80,21 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 44,
+        "padding_bottom": 0
+      }
+    },
+    "7f1fac4f-ea18-4bfa-8a29-eb8f9e10593c": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Holiday Raffle Promo Video.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -149,6 +164,7 @@
   "order": [
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
+    "7f1fac4f-ea18-4bfa-8a29-eb8f9e10593c",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
