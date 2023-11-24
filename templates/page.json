@@ -1,13 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
     "0c864232-6598-4242-8b75-68c77923db84": {
       "type": "rich-text",
       "blocks": {
@@ -21,25 +13,13 @@
         "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "See whats next!",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": ""
           }
         }
       },
       "block_order": [
         "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-heading-1",
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1",
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-button-1"
+        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -47,7 +27,68 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 16
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "IOTKz Paint PartiezZ!!!",
+            "text": "<p>\"Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2",
+        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "8288a557-7693-42e2-a517-0ecca6c49622": {
@@ -89,76 +130,12 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
-    },
-    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Puff an dpaint",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6a409d69-ffba-4138-8bef-c0185403367c": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
     "0c864232-6598-4242-8b75-68c77923db84",
-    "8288a557-7693-42e2-a517-0ecca6c49622",
+    "main",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
-    "6a409d69-ffba-4138-8bef-c0185403367c"
+    "8288a557-7693-42e2-a517-0ecca6c49622"
   ]
 }
