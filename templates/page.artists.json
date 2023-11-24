@@ -94,7 +94,7 @@
         "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/join_Today_6.png",
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -104,7 +104,7 @@
         "template--15881460514863__81fba266-fcb6-44c0-9604-47884715143d-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-13-42-38.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -121,7 +121,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
