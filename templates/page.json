@@ -45,7 +45,7 @@
           "type": "column",
           "settings": {
             "title": "IOTKz Paint PartiezZ!!!",
-            "text": "<p>\"Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!\"<\/p>",
+            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -53,7 +53,7 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20200214_202716_1.jpg",
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33_4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -63,7 +63,7 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20200214_212412_1.jpg",
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,6 +75,62 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2",
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "550c2655-495b-450b-8d4d-50c29d639fd7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20200214_212412_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20200214_202716_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-1",
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-2",
+        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-3"
       ],
       "settings": {
         "title": "",
@@ -178,6 +234,7 @@
     "0c864232-6598-4242-8b75-68c77923db84",
     "main",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
+    "550c2655-495b-450b-8d4d-50c29d639fd7",
     "8288a557-7693-42e2-a517-0ecca6c49622",
     "a0aa99c8-9040-4b19-b67c-87a083d7b51d"
   ]
