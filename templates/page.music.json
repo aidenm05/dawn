@@ -36,11 +36,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0a2bd17f-c141-4c27-850d-bdbd83a285bb": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/e6XYo6WzY7c-HD.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "53eb9a99-1f05-4095-9e91-2fc901513e70",
-    "cbf6d64a-8aec-4772-86b5-e430e5c96af2"
+    "cbf6d64a-8aec-4772-86b5-e430e5c96af2",
+    "0a2bd17f-c141-4c27-850d-bdbd83a285bb"
   ]
 }
