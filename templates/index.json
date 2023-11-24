@@ -49,7 +49,7 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase any bag of signature popcorn and enter for a chance to win a free pair of airforce 1s customized by YOU with up to $200 worth of customizations by Naes Custom Kicks<\/p>",
+            "text": "<p>Purchase any bag of signature popcorn and enter for a chance to win a free pair of Air Force 1's customized by Nae with up to $200 worth of customizations by picked by you.<\/p>",
             "text_style": "body"
           }
         },
@@ -91,6 +91,7 @@
         "enable_video_looping": true,
         "video": "shopify:\/\/files\/videos\/Holiday Raffle Promo Video.mp4",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-00-24-43.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "",
