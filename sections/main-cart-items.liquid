@@ -100,6 +100,14 @@
                     {%- endif -%}
 
                     <a href="{{ item.url }}" class="cart-item__name h4 break">{{ item.product.title | escape }}</a>
+                    {%- for collection in item.product.collections -%}
+                      {%- if collection.title == 'Popcorn' -%}
+                        <h3>
+                          Each bag is an entry to win custom Air Force 1's by Nae Custom Kicks. 🌟 Winner announced Dec
+                          5th. Orders shipped Dec 11-15th. Good luck!
+                        </h3>
+                      {%- endif -%}
+                    {%- endfor -%}
 
                     {%- if item.original_price != item.final_price -%}
                       <div class="cart-item__discounted-prices">
