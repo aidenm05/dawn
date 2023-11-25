@@ -117,7 +117,14 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/IMG_20220915_173016_528_1.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#383a41",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#b01717",
+    "checkout_button_color": "#175eb0",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
