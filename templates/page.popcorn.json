@@ -24,11 +24,20 @@
             "text": "<p>Whoever would have thought that a sneaker art brand would have their own POPCORN!!! We present to you our signature popcorn series, a collaboration with Lammar Marie's Gourmet Popcorn of Short Pump VA, inspired by some of your favorite KICKZ! Our Grape & Cheeseboard popcorn goes especially well with wine, cocktails and was made especially to pair with our Kick Crazy Winetailz, powered by Shoe Crazy Wine, dropping in 2024!<\/p>",
             "text_style": "body"
           }
+        },
+        "86ff7743-2123-4d2c-a839-85ec95896b04": {
+          "type": "caption",
+          "settings": {
+            "caption": "(orders ship every 2-3 days )",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-heading-1",
-        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1"
+        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1",
+        "86ff7743-2123-4d2c-a839-85ec95896b04"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-17-38_2.jpg",
