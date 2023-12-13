@@ -6,14 +6,14 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Pre order New Popcorn Flavors!<\/strong>",
+            "heading": "<strong> New Popcorn Flavors!<\/strong>",
             "heading_size": "h0"
           }
         },
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
           "type": "text",
           "settings": {
-            "text": "Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise                                                    <em>( Pre order by 12\/4, all orders ship 12\/15 )<\/em>",
+            "text": "Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise                                                    <em>(all orders ship every 2-3 days )<\/em>",
             "text_style": "body"
           }
         }
@@ -42,35 +42,26 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Raffle Giveaway!<\/strong>",
+            "heading": "<strong>Raffle winner!<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase any bag of signature popcorn and enter for a chance to win a free pair of Air Force 1's customized by Nae Custom Kicks with up to $200 worth of customizations picked by you.<\/p>",
+            "text": "<h3>S\/o Shoot 4 Greatness, winner of our Holiday Customs Raffle!  He'll be designing a pair of Air Force 1's with our in house specialist Nae Custom Kicks🔥🔥🔥🙌🏽🔥🔥🔥 CONGRATULATIONZ!!!<\/h3>",
             "text_style": "body"
-          }
-        },
-        "de312d9d-c6fd-4521-a6d9-b9edae87d927": {
-          "type": "caption",
-          "settings": {
-            "caption": "Every bag purchased = 1 Entry",
-            "text_style": "subtitle",
-            "text_size": "small"
           }
         }
       },
       "block_order": [
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1",
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1",
-        "de312d9d-c6fd-4521-a6d9-b9edae87d927"
+        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/350719213_277302344754461_5059675645722100399_n.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-12-12-14-37-08.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -85,6 +76,7 @@
     },
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
