@@ -6,14 +6,14 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong> New Popcorn Flavors!<\/strong>",
+            "heading": "<strong> New LM X IOTKZ Bundles <\/strong>",
             "heading_size": "h0"
           }
         },
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
           "type": "text",
           "settings": {
-            "text": "Unlock a World of Flavor with Our Irresistible New Icing On The Kickz Signature Popcorn Flavors guaranteed to satisfy those munchie cravings whenever they arise                                                    <em>(orders ship every 2-3 days )<\/em>",
+            "text": "Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab and Unlock a World of Flavor guaranteed to satisfy those munchie cravings whenever they arise <em>(orders ship every 2-3 days )<\/em>",
             "text_style": "body"
           }
         }
@@ -42,14 +42,14 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Raffle winner!<\/strong>",
+            "heading": "<strong>IOTKz Signature Popcorn Series<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>S\/o Shoot 4 Greatness, winner of our Holiday Customs Raffle!  He'll be designing a pair of Air Force 1's with our in house specialist Nae Custom Kicks🔥🔥🔥🙌🏽🔥🔥🔥 CONGRATULATIONZ!!!<\/h3>",
+            "text": "<p><\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>",
             "text_style": "body"
           }
         }
@@ -59,7 +59,7 @@
         "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-12-12-14-37-08.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_9679.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -152,6 +152,7 @@
         "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1",
         "7a73dde3-3300-4a4b-bcd0-8e159f31efbf"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -194,6 +195,16 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "page_7iGxD3": {
+      "type": "page",
+      "settings": {
+        "page": "artists",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -202,6 +213,7 @@
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "142260ca-e326-445f-a9e1-210402c946cd",
-    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
+    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0",
+    "page_7iGxD3"
   ]
 }
