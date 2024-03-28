@@ -132,33 +132,10 @@
             "button_label": "Collection",
             "button_link": ""
           }
-        },
-        "row_xFqK8z": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-22-54.jpg",
-            "caption": "Diverse portfolio of talents and creatives",
-            "heading": "Artists",
-            "text": "<p>D'Shay Like Da Vinci Has united Unique artists and selected creatives to Create art inspired by sneakers and culture surrounding them<\/p>",
-            "button_label": "Artists page",
-            "button_link": ""
-          }
-        },
-        "row_78X9yL": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "row_y3QLMF",
-        "row_xFqK8z",
-        "row_78X9yL"
+        "row_y3QLMF"
       ],
       "settings": {
         "image_height": "medium",
@@ -174,6 +151,92 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "collection_list_69BDX3": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_bQXtar": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "octoberfest-collection"
+          }
+        },
+        "featured_collection_HqaVpG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "splash-collection"
+          }
+        },
+        "featured_collection_GmYYaA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "clear-bling-collection"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_bQXtar",
+        "featured_collection_HqaVpG",
+        "featured_collection_GmYYaA"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_mWmyWA": {
+      "type": "multirow",
+      "blocks": {
+        "row_EEUCWe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-22-54.jpg",
+            "caption": "Diverse portfolio of talents and creatives",
+            "heading": "Artists",
+            "text": "<p>D'Shay Like Da Vinci Has united Unique artists and selected creatives to Create art inspired by sneakers and culture surrounding them<\/p>",
+            "button_label": "Artist collection",
+            "button_link": "shopify:\/\/pages\/artists"
+          }
+        },
+        "row_Tg6xNF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-02-22.jpg",
+            "caption": "Paint parties Sneaker cons and more",
+            "heading": "Events",
+            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!<\/p>",
+            "button_label": "Events",
+            "button_link": "shopify:\/\/pages\/event-management-page"
+          }
+        }
+      },
+      "block_order": [
+        "row_EEUCWe",
+        "row_Tg6xNF"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 72
       }
     },
     "142260ca-e326-445f-a9e1-210402c946cd": {
@@ -260,6 +323,8 @@
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "multirow_DyGr3N",
+    "collection_list_69BDX3",
+    "multirow_mWmyWA",
     "142260ca-e326-445f-a9e1-210402c946cd",
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
