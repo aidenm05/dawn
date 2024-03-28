@@ -21,7 +21,7 @@
         "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Whoever would have thought that a sneaker art brand would have their own POPCORN!!! We present to you our signature popcorn series, a collaboration with Lammar Marie's Gourmet Popcorn of Short Pump VA, inspired by some of your favorite KICKZ! Our Grape & Cheeseboard popcorn goes especially well with wine, cocktails and was made especially to pair with our Kick Crazy Winetailz, powered by Shoe Crazy Wine, dropping in 2024!<\/p>",
+            "text": "<p>Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab!!!<\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>",
             "text_style": "body"
           }
         },
@@ -42,7 +42,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-17-38_2.jpg",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -116,6 +116,7 @@
         "template--15881448390703__427d990b-9f6d-4701-844d-739496bd7a65-text-1",
         "ebca4701-ded1-41fb-a224-a44c54392d13"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -131,7 +132,7 @@
         "template--15881448390703__e010cc06-22c8-4f94-85bf-04759a772adc-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_2.jpg",
+            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-28-48_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -141,7 +142,7 @@
         "template--15881448390703__e010cc06-22c8-4f94-85bf-04759a772adc-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
+            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-28-48_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -163,6 +164,62 @@
         "template--15881448390703__e010cc06-22c8-4f94-85bf-04759a772adc-column-1",
         "template--15881448390703__e010cc06-22c8-4f94-85bf-04759a772adc-column-2",
         "template--15881448390703__e010cc06-22c8-4f94-85bf-04759a772adc-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_3LjTNB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6kWPHF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PxL8z9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_idb9yR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-28-48.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6kWPHF",
+        "column_PxL8z9",
+        "column_idb9yR"
       ],
       "settings": {
         "title": "",
@@ -244,6 +301,7 @@
     "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38",
     "427d990b-9f6d-4701-844d-739496bd7a65",
     "e010cc06-22c8-4f94-85bf-04759a772adc",
+    "multicolumn_3LjTNB",
     "86ca6aa1-c6c8-40f8-b373-899db235dc66"
   ]
 }
