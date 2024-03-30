@@ -3,16 +3,15 @@
     "rich_text_QLDNqU": {
       "type": "rich-text",
       "blocks": {
-        "heading_ebbxRP": {
-          "type": "heading",
+        "text_Q7TXYM": {
+          "type": "text",
           "settings": {
-            "heading": "Jewelry + Art + Music Popcorn + Winetailz + Paint Party's inspired by KICKZ!",
-            "heading_size": "h2"
+            "text": "<h1>Jewelry + Art + Music <\/h1><h1> Popcorn + Winetailz + Paint Party's<\/h1><h1> inspired by KICKZ!<\/h1>"
           }
         }
       },
       "block_order": [
-        "heading_ebbxRP"
+        "text_Q7TXYM"
       ],
       "settings": {
         "desktop_content_position": "center",
