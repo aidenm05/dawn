@@ -6,7 +6,7 @@
         "text_Q7TXYM": {
           "type": "text",
           "settings": {
-            "text": "<h2>Jewelry + Art + Music <\/h2><h2> Popcorn + Winetailz <\/h2><h2> Paint Party's<\/h2><h2> inspired by KICKZ!<\/h2>"
+            "text": "<h1>Jewelry + Art + Music <\/h1><h1> Popcorn + Winetailz <\/h1><h1> Paint Party's<\/h1><h1> inspired by KICKZ!<\/h1>"
           }
         }
       },
@@ -56,44 +56,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
-      }
-    },
-    "6b0ea659-aca2-4e16-83e8-543be5bbe52f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>IOTKz Signature Popcorn Series<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-heading-1",
-        "template--15727185854511__6b0ea659-aca2-4e16-83e8-543be5bbe52f-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9679.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "background-1",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 44,
-        "padding_bottom": 0
       }
     },
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
@@ -302,7 +264,6 @@
   "order": [
     "rich_text_QLDNqU",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
-    "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "multirow_DyGr3N",
