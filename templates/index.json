@@ -321,10 +321,10 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/52_b2fb830c-ea4e-4da6-9ab4-b644d9343d78.png",
-            "caption": "",
+            "caption": "Sneaker art by your favorite IOTKz artists",
             "heading": "Art",
-            "text": "<p>Sneaker art by your favorite IOTKz artists<\/p><p>You bought the kickz but how do you celebrate them daily!?  Check out the latest innovative sneaker art by IOTKz highly talented roster of artists who are pushing the standards on Kick culture!<\/p>",
-            "button_label": "Framed prints",
+            "text": "<p>You bought the kickz but how do you celebrate them daily!?  Check out the latest innovative sneaker art by IOTKz highly talented roster of artists who are pushing the standards on Kick culture!<\/p>",
+            "button_label": "Art",
             "button_link": "shopify:\/\/collections\/physical-prints"
           }
         },
