@@ -3,12 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "variant_picker_MitNek": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -24,6 +18,12 @@
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
           }
         },
         "quantity_selector": {
@@ -45,23 +45,23 @@
         }
       },
       "block_order": [
-        "variant_picker_MitNek",
         "title",
         "price",
         "caption",
+        "variant_picker",
         "quantity_selector",
         "description",
         "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "gallery_layout": "stacked",
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
         "media_position": "left",
         "image_zoom": "hover",
-        "mobile_thumbnails": "hide",
+        "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
