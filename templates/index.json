@@ -148,7 +148,7 @@
         "row_y3QLMF": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/15.png",
+            "image": "shopify:\/\/shop_images\/34.png",
             "caption": "Sneaker Inspired Jewerly",
             "heading": "Splash!",
             "text": "<p>Discover jewelry inspired by sneakers for true sneaker enthusiasts - unique bracelets and necklaces crafted by hand with a style that perfectly complements your favorite kicks or enhances your outfit!<\/p>",
@@ -172,46 +172,6 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_69BDX3": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_bQXtar": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "octoberfest-collection"
-          }
-        },
-        "featured_collection_HqaVpG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "splash-collection"
-          }
-        },
-        "featured_collection_GmYYaA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "clear-bling-collection"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_bQXtar",
-        "featured_collection_HqaVpG",
-        "featured_collection_GmYYaA"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -347,7 +307,6 @@
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "multirow_DyGr3N",
-    "collection_list_69BDX3",
     "multirow_mWmyWA",
     "142260ca-e326-445f-a9e1-210402c946cd",
     "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
