@@ -6,14 +6,14 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong> New LM X IOTKZ Bundles <\/strong>",
-            "heading_size": "h0"
+            "heading": "ICING ON THE KICKZ X LAMMAR MARIE'S SNEAKER-THEMED POPCORN COLLAB IS HERE!",
+            "heading_size": "h1"
           }
         },
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
           "type": "text",
           "settings": {
-            "text": "Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab and Unlock a World of Flavor guaranteed to satisfy those munchie cravings whenever they arise <em>(orders ship every 2-3 days )<\/em>",
+            "text": "Do you love kick culture?  Or reeally want to show your munchie-loving sneaker-crazed friend some bred love?  The Top V (5) from our Icing On The Kickz X Lammar Marie Luxury Popcorn collab will do the trick!  Or cop The Pick III (3)!  Each bag is made with premium ingredients, flavors & colorways curated by Icing On The Kickz owner D'Shay Like Da Vinci, then crafted by Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn!  Think OUTSIDE the box, grab a Top V or Pick III and tear INTO a bag!",
             "text_style": "body"
           }
         }
@@ -101,7 +101,7 @@
         "description_style": "uppercase",
         "collection": "popcorn",
         "products_to_show": 3,
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "link",
