@@ -95,6 +95,12 @@
     "rich_text_hgpaGW": {
       "type": "rich-text",
       "blocks": {
+        "text_QNBKC3": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>$100.00<\/h6>"
+          }
+        },
         "text_maVPCE": {
           "type": "text",
           "settings": {
@@ -114,6 +120,7 @@
         }
       },
       "block_order": [
+        "text_QNBKC3",
         "text_maVPCE",
         "button_F4CzmT"
       ],
@@ -240,11 +247,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_GF6kRP": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>$65.00<\/h6>"
+          }
         }
       },
       "block_order": [
         "text_hj8kMD",
-        "button_xViDji"
+        "button_xViDji",
+        "text_GF6kRP"
       ],
       "settings": {
         "desktop_content_position": "center",
