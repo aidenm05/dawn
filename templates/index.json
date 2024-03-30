@@ -61,13 +61,6 @@
     "featured_product_UBgcUC": {
       "type": "featured-product",
       "blocks": {
-        "text_FyiQGn": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_Pi8F7e": {
           "type": "title",
           "settings": {
@@ -76,7 +69,6 @@
         }
       },
       "block_order": [
-        "text_FyiQGn",
         "title_Pi8F7e"
       ],
       "settings": {
