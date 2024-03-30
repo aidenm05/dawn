@@ -215,3 +215,7 @@
     display: list-item;
   }
 }
+.multicolumn-card__image-wrapper img {
+  border: 4px solid black; /* Change 4px to adjust the border thickness */
+  padding: 10px; /* Change 10px to adjust the spacing between the border and the image */
+}
