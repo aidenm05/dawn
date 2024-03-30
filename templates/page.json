@@ -38,6 +38,53 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_XKnYgc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NELmxU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kicks on Canvas Sip & Paint - Heels VS Kicks Edition",
+            "heading_size": "h1"
+          }
+        },
+        "text_TYXfQ9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us for an extraordinary evening of creativity and style at the \"Kicks on Canvas Sip and Paint\" party! This unique event blends artistry with fashion, inviting you to unleash your inner designer and step into a world where heels clash with kicks<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Xhzr8z": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy tickets",
+            "button_link": "https:\/\/www.mljartistry.com\/event-details\/kicks-on-canvas-sip-paint-heels-vs-kicks-edition",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NELmxU",
+        "text_TYXfQ9",
+        "button_Xhzr8z"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cf21e6_1d21cf06cc4b4c1ea44beb13255a7829_mv2_1.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
       "type": "multicolumn",
       "blocks": {
@@ -233,6 +280,7 @@
   "order": [
     "0c864232-6598-4242-8b75-68c77923db84",
     "main",
+    "image_with_text_XKnYgc",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
     "550c2655-495b-450b-8d4d-50c29d639fd7",
     "8288a557-7693-42e2-a517-0ecca6c49622",
