@@ -58,6 +58,77 @@
         "show_text_below": true
       }
     },
+    "featured_product_UBgcUC": {
+      "type": "featured-product",
+      "blocks": {
+        "text_FyiQGn": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_Pi8F7e": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_FyiQGn",
+        "title_Pi8F7e"
+      ],
+      "settings": {
+        "product": "5-popcorn-sampler",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_JjKpeg": {
+      "type": "featured-product",
+      "blocks": {
+        "title_UGFb7H": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "variant_picker_zVPVD7": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        }
+      },
+      "block_order": [
+        "title_UGFb7H",
+        "variant_picker_zVPVD7"
+      ],
+      "settings": {
+        "product": "3-popcorn-bundle",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
       "type": "video",
       "disabled": true,
@@ -73,34 +144,6 @@
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "efb2c8ba-2d01-467d-af37-bf5e405b0fac": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "popcorn",
-        "products_to_show": 2,
-        "columns_desktop": 1,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 24
       }
     },
     "multirow_DyGr3N": {
@@ -259,87 +302,17 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "featured_product_qJRkRL": {
-      "type": "featured-product",
-      "blocks": {
-        "text_DVbjF3": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_xXhfgH": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_imjnwt": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_bgMmXE": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_NNQQRf": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_AnNYJJ": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_9r8Hek": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_DVbjF3",
-        "title_xXhfgH",
-        "price_imjnwt",
-        "variant_picker_bgMmXE",
-        "quantity_selector_NNQQRf",
-        "buy_buttons_AnNYJJ",
-        "share_9r8Hek"
-      ],
-      "settings": {
-        "product": "3-popcorn-bundle",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "rich_text_QLDNqU",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
+    "featured_product_UBgcUC",
+    "featured_product_JjKpeg",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
-    "efb2c8ba-2d01-467d-af37-bf5e405b0fac",
     "multirow_DyGr3N",
     "multirow_mWmyWA",
     "142260ca-e326-445f-a9e1-210402c946cd",
-    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0",
-    "featured_product_qJRkRL"
+    "c11a8e52-6fd6-4570-8099-0fccecb4f4f0"
   ]
 }
