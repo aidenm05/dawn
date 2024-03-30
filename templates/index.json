@@ -58,6 +58,74 @@
         "show_text_below": true
       }
     },
+    "multicolumn_xL3i8F": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9CDjbg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9CDjbg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_hgpaGW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_maVPCE": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>LM X IOTKz Top V<\/h5>"
+          }
+        },
+        "button_F4CzmT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/5-popcorn-sampler",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/products\/5-popcorn-sampler",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_maVPCE",
+        "button_F4CzmT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
       "type": "video",
       "disabled": true,
@@ -71,34 +139,6 @@
         "description": "",
         "full_width": false,
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_B77Y3U": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "popcorn",
-        "products_to_show": 2,
-        "columns_desktop": 1,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -170,8 +210,8 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
@@ -184,10 +224,10 @@
     "rich_text_Mz4fQx": {
       "type": "rich-text",
       "blocks": {
-        "text_EEMkAX": {
+        "text_hj8kMD": {
           "type": "text",
           "settings": {
-            "text": "<p>LM X IOTKz Pick III<\/p>"
+            "text": "<h5>LM X IOTKz Pick III<\/h5>"
           }
         },
         "button_xViDji": {
@@ -203,7 +243,7 @@
         }
       },
       "block_order": [
-        "text_EEMkAX",
+        "text_hj8kMD",
         "button_xViDji"
       ],
       "settings": {
@@ -211,8 +251,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multirow_DyGr3N": {
@@ -432,8 +472,9 @@
   "order": [
     "rich_text_QLDNqU",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
+    "multicolumn_xL3i8F",
+    "rich_text_hgpaGW",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
-    "featured_collection_B77Y3U",
     "multicolumn_p7PUM7",
     "rich_text_Mz4fQx",
     "multirow_DyGr3N",
