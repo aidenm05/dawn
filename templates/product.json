@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "variant_picker_MitNek": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -18,12 +24,6 @@
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -45,10 +45,10 @@
         }
       },
       "block_order": [
+        "variant_picker_MitNek",
         "title",
         "price",
         "caption",
-        "variant_picker",
         "quantity_selector",
         "description",
         "buy_buttons"
