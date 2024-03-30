@@ -95,12 +95,6 @@
     "rich_text_hgpaGW": {
       "type": "rich-text",
       "blocks": {
-        "text_QNBKC3": {
-          "type": "text",
-          "settings": {
-            "text": "<h6>$100.00<\/h6>"
-          }
-        },
         "text_maVPCE": {
           "type": "text",
           "settings": {
@@ -117,12 +111,18 @@
             "button_link_2": "shopify:\/\/products\/5-popcorn-sampler",
             "button_style_secondary_2": false
           }
+        },
+        "text_QNBKC3": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>$100.00<\/h6>"
+          }
         }
       },
       "block_order": [
-        "text_QNBKC3",
         "text_maVPCE",
-        "button_F4CzmT"
+        "button_F4CzmT",
+        "text_QNBKC3"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -327,11 +327,23 @@
             "button_label": "Events",
             "button_link": "shopify:\/\/pages\/event-management-page"
           }
+        },
+        "row_AqAabc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/52_b2fb830c-ea4e-4da6-9ab4-b644d9343d78.png",
+            "caption": "",
+            "heading": "Art",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Framed prints",
+            "button_link": "shopify:\/\/pages\/shop-art"
+          }
         }
       },
       "block_order": [
         "row_EEUCWe",
-        "row_Tg6xNF"
+        "row_Tg6xNF",
+        "row_AqAabc"
       ],
       "settings": {
         "image_height": "medium",
