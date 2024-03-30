@@ -58,69 +58,6 @@
         "show_text_below": true
       }
     },
-    "featured_product_UBgcUC": {
-      "type": "featured-product",
-      "blocks": {
-        "title_Pi8F7e": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "title_Pi8F7e"
-      ],
-      "settings": {
-        "product": "5-popcorn-sampler",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_product_JjKpeg": {
-      "type": "featured-product",
-      "blocks": {
-        "title_UGFb7H": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "variant_picker_zVPVD7": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        }
-      },
-      "block_order": [
-        "title_UGFb7H",
-        "variant_picker_zVPVD7"
-      ],
-      "settings": {
-        "product": "3-popcorn-bundle",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572": {
       "type": "video",
       "disabled": true,
@@ -299,8 +236,6 @@
   "order": [
     "rich_text_QLDNqU",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
-    "featured_product_UBgcUC",
-    "featured_product_JjKpeg",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "multirow_DyGr3N",
     "multirow_mWmyWA",
