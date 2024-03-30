@@ -1,5 +1,28 @@
 {
   "sections": {
+    "rich_text_QLDNqU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ebbxRP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jewelry + Art + Music + Popcorn + Winetailz + Paint Party's inspired by KICKZ!",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ebbxRP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 12
+      }
+    },
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
       "type": "image-banner",
       "blocks": {
@@ -23,7 +46,7 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pre_order_nowgfhbdgbdf.png",
+        "image": "shopify:\/\/shop_images\/download_31_2.svg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -100,7 +123,7 @@
         "show_description": false,
         "description_style": "uppercase",
         "collection": "popcorn",
-        "products_to_show": 3,
+        "products_to_show": 2,
         "columns_desktop": 1,
         "full_width": false,
         "show_view_all": false,
@@ -318,6 +341,7 @@
     }
   },
   "order": [
+    "rich_text_QLDNqU",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "6b0ea659-aca2-4e16-83e8-543be5bbe52f",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
