@@ -40,6 +40,7 @@
         "86ff7743-2123-4d2c-a839-85ec95896b04"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
