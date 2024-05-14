@@ -40,7 +40,6 @@
         "86ff7743-2123-4d2c-a839-85ec95896b04"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-17-38_2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -144,118 +143,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_3LjTNB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_6kWPHF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PxL8z9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-15-24_2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_idb9yR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-28-48.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_6kWPHF",
-        "column_PxL8z9",
-        "column_idb9yR"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "86ca6aa1-c6c8-40f8-b373-899db235dc66": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-10-25-13-24-02_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-02-56.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-10-25-13-24-04_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-1",
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-2",
-        "template--15881448390703__86ca6aa1-c6c8-40f8-b373-899db235dc66-column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -263,8 +150,6 @@
     "1b76dbbe-bf84-47fa-94c9-5abb561a4d28",
     "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38",
     "427d990b-9f6d-4701-844d-739496bd7a65",
-    "e010cc06-22c8-4f94-85bf-04759a772adc",
-    "multicolumn_3LjTNB",
-    "86ca6aa1-c6c8-40f8-b373-899db235dc66"
+    "e010cc06-22c8-4f94-85bf-04759a772adc"
   ]
 }
