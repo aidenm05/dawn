@@ -52,35 +52,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
-    "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "food-drink",
-        "products_to_show": 2,
-        "columns_desktop": 1,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "427d990b-9f6d-4701-844d-739496bd7a65": {
@@ -126,31 +98,218 @@
         "padding_bottom": 52
       }
     },
-    "e010cc06-22c8-4f94-85bf-04759a772adc": {
+    "multicolumn_dc77YV": {
       "type": "multicolumn",
+      "blocks": {
+        "column_LHDdNP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LHDdNP"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_bEPfih": {
+      "type": "rich-text",
+      "blocks": {
+        "text_46RmV6": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>LM X IOTKz Top V<\/h5>"
+          }
+        },
+        "button_7VrQCj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/5-popcorn-sampler",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_hmPyFM": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>$100.00<\/h6>"
+          }
+        }
+      },
+      "block_order": [
+        "text_46RmV6",
+        "button_7VrQCj",
+        "text_hmPyFM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_D9aL6H": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HUhWth": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9677.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6qnTQp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9678.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ceEMrt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9681.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gLN7DA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9679.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_W4mah4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9677.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wricda": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_HUhWth",
+        "column_6qnTQp",
+        "column_ceEMrt",
+        "column_gLN7DA",
+        "column_W4mah4",
+        "column_wricda"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_yqXwBT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_g7gERe": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>LM X IOTKz Pick III<\/h5>"
+          }
+        },
+        "button_ABf8Vz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Choose options",
+            "button_link": "https:\/\/www.icingonthekickz.com\/products\/3-popcorn-bundle\\",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_ynFETy": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>$65.00<\/h6>"
+          }
+        }
+      },
+      "block_order": [
+        "text_g7gERe",
+        "button_ABf8Vz",
+        "text_ynFETy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
     "1b76dbbe-bf84-47fa-94c9-5abb561a4d28",
-    "e2fa00a4-dcc9-4bba-b34e-bbba2622cb38",
     "427d990b-9f6d-4701-844d-739496bd7a65",
-    "e010cc06-22c8-4f94-85bf-04759a772adc"
+    "multicolumn_dc77YV",
+    "rich_text_bEPfih",
+    "multicolumn_D9aL6H",
+    "rich_text_yqXwBT"
   ]
 }
