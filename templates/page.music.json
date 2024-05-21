@@ -1,7 +1,31 @@
 {
   "sections": {
+    "rich_text_Q3hjMk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6jXPax": {
+          "type": "heading",
+          "settings": {
+            "heading": "Music",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6jXPax"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 32,
         "padding_bottom": 0
@@ -54,6 +78,7 @@
     }
   },
   "order": [
+    "rich_text_Q3hjMk",
     "main",
     "53eb9a99-1f05-4095-9e91-2fc901513e70",
     "cbf6d64a-8aec-4772-86b5-e430e5c96af2",
