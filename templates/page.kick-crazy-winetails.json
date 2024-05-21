@@ -2,9 +2,33 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_jPWTA8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KhTttT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kick Crazy WinetailzZ",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KhTttT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 12
       }
     },
     "75fed860-a7b6-4f7c-822e-a94aa4f6f7bc": {
@@ -246,6 +270,7 @@
   },
   "order": [
     "main",
+    "rich_text_jPWTA8",
     "75fed860-a7b6-4f7c-822e-a94aa4f6f7bc",
     "a72f4535-07e3-4ef2-acb7-cfdb84c99217",
     "a990cec0-a7e8-4076-b86f-c29b892af399",
