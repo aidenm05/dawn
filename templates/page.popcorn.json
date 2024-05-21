@@ -8,24 +8,23 @@
         "padding_bottom": 0
       }
     },
-    "1b76dbbe-bf84-47fa-94c9-5abb561a4d28": {
-      "type": "image-with-text",
+    "rich_text_6mLhr4": {
+      "type": "rich-text",
       "blocks": {
-        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-heading-1": {
+        "heading_CQ6gYK": {
           "type": "heading",
           "settings": {
             "heading": "IOTKz Signature Popcorn",
             "heading_size": "h1"
           }
         },
-        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1": {
+        "text_ePzrdV": {
           "type": "text",
           "settings": {
-            "text": "<p>Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab!!!<\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>",
-            "text_style": "body"
+            "text": "<p>Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab!!!<\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>"
           }
         },
-        "86ff7743-2123-4d2c-a839-85ec95896b04": {
+        "caption_yEa9kw": {
           "type": "caption",
           "settings": {
             "caption": "(orders ship every 2-3 days )",
@@ -35,24 +34,17 @@
         }
       },
       "block_order": [
-        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-heading-1",
-        "template--15881448390703__1b76dbbe-bf84-47fa-94c9-5abb561a4d28-text-1",
-        "86ff7743-2123-4d2c-a839-85ec95896b04"
+        "heading_CQ6gYK",
+        "text_ePzrdV",
+        "caption_yEa9kw"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 0
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "427d990b-9f6d-4701-844d-739496bd7a65": {
@@ -305,7 +297,7 @@
   },
   "order": [
     "main",
-    "1b76dbbe-bf84-47fa-94c9-5abb561a4d28",
+    "rich_text_6mLhr4",
     "427d990b-9f6d-4701-844d-739496bd7a65",
     "multicolumn_dc77YV",
     "rich_text_bEPfih",
