@@ -1,6 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
+    @media only screen and (max-width: 768px) {
+    product-recommendations ul  {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: scroll !important;
+    }    
+}
  {%- render 'ecom_header' -%}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -344,13 +351,6 @@
         recipientFormExpanded: `{{ 'recipient.form.expanded' | t }}`,
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
-      @media only screen and (max-width: 768px) {
-    product-recommendations ul  {
-        display: flex !important;
-        flex-wrap: nowrap !important;
-        overflow-x: scroll !important;
-        }    
-      }
     </script>
 
     {%- if settings.predictive_search_enabled -%}
