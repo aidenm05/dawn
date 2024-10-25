@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text_QLDNqU": {
@@ -6,7 +15,7 @@
         "text_Q7TXYM": {
           "type": "text",
           "settings": {
-            "text": "<h1>Jewelry <\/h1><h1> Art <\/h1><h1> Music <\/h1><h1> Popcorn <\/h1><h1> Winetailz <\/h1><h1> Paint Party's<\/h1><h1> inspired by<\/h1><h1>KICKZ!<\/h1>"
+            "text": "<h1>Jewelry </h1><h1> Art </h1><h1> Music </h1><h1> Popcorn </h1><h1> Winetailz </h1><h1> Paint Party's</h1><h1> inspired by</h1><h1>KICKZ!</h1>"
           }
         }
       },
@@ -20,6 +29,53 @@
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 12
+      }
+    },
+    "image_with_text_Xd6bia": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hwqpyU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Featured Event!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_tjb3TB": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Brunch'n paint with a wake n bake twist!<br/></h5>",
+            "text_style": "body"
+          }
+        },
+        "button_k7ecPK": {
+          "type": "button",
+          "settings": {
+            "button_label": "More info and Ticktets",
+            "button_link": "shopify://pages/icing-on-the-kickz-presents-bacon-n-bredzz",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hwqpyU",
+        "text_tjb3TB",
+        "button_k7ecPK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
@@ -45,7 +101,7 @@
         "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/download_31_2.svg",
+        "image": "shopify://shop_images/download_31_2.svg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -64,7 +120,7 @@
         "column_9CDjbg": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
+            "image": "shopify://shop_images/IMG_9675.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -98,24 +154,24 @@
         "text_maVPCE": {
           "type": "text",
           "settings": {
-            "text": "<h5>LM X IOTKz Top V<\/h5>"
+            "text": "<h5>LM X IOTKz Top V</h5>"
           }
         },
         "button_F4CzmT": {
           "type": "button",
           "settings": {
             "button_label": "Buy Now",
-            "button_link": "shopify:\/\/products\/5-popcorn-sampler",
+            "button_link": "shopify://products/5-popcorn-sampler",
             "button_style_secondary": true,
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/products\/5-popcorn-sampler",
+            "button_link_2": "shopify://products/5-popcorn-sampler",
             "button_style_secondary_2": false
           }
         },
         "text_QNBKC3": {
           "type": "text",
           "settings": {
-            "text": "<h6>$100.00<\/h6>"
+            "text": "<h6>$100.00</h6>"
           }
         }
       },
@@ -140,9 +196,9 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Holiday Raffle Promo Video.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-00-24-43.jpg",
+        "video": "shopify://files/videos/Holiday Raffle Promo Video.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/PHOTO-2023-11-24-00-24-43.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -156,7 +212,7 @@
         "column_k4krJe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9677.jpg",
+            "image": "shopify://shop_images/IMG_9677.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -166,7 +222,7 @@
         "column_7inhfT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9678.jpg",
+            "image": "shopify://shop_images/IMG_9678.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -176,7 +232,7 @@
         "column_EGp7qP": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9680.heic",
+            "image": "shopify://shop_images/IMG_9680.heic",
             "title": "",
             "text": "",
             "link_label": "",
@@ -186,7 +242,7 @@
         "column_ipe8bB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9679.jpg",
+            "image": "shopify://shop_images/IMG_9679.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -196,7 +252,7 @@
         "column_gRR9bX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9681.jpg",
+            "image": "shopify://shop_images/IMG_9681.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -234,14 +290,14 @@
         "text_hj8kMD": {
           "type": "text",
           "settings": {
-            "text": "<h5>LM X IOTKz Pick III<\/h5>"
+            "text": "<h5>LM X IOTKz Pick III</h5>"
           }
         },
         "button_xViDji": {
           "type": "button",
           "settings": {
             "button_label": "Choose options",
-            "button_link": "https:\/\/www.icingonthekickz.com\/products\/3-popcorn-bundle",
+            "button_link": "https://www.icingonthekickz.com/products/3-popcorn-bundle",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -251,7 +307,7 @@
         "text_GF6kRP": {
           "type": "text",
           "settings": {
-            "text": "<h6>$65.00<\/h6>"
+            "text": "<h6>$65.00</h6>"
           }
         }
       },
@@ -275,12 +331,12 @@
         "row_y3QLMF": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/34.png",
+            "image": "shopify://shop_images/34.png",
             "caption": "Sneaker Inspired Jewerly",
             "heading": "Splash!",
-            "text": "<p>Discover jewelry inspired by sneakers for true sneaker enthusiasts - unique bracelets and necklaces crafted by hand with a style that perfectly complements your favorite kicks or enhances your outfit!<\/p>",
+            "text": "<p>Discover jewelry inspired by sneakers for true sneaker enthusiasts - unique bracelets and necklaces crafted by hand with a style that perfectly complements your favorite kicks or enhances your outfit!</p>",
             "button_label": "Collection",
-            "button_link": "shopify:\/\/collections\/splash-collection"
+            "button_link": "shopify://collections/splash-collection"
           }
         }
       },
@@ -309,34 +365,34 @@
         "row_EEUCWe": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2024-03-24-21-22-54.jpg",
+            "image": "shopify://shop_images/PHOTO-2024-03-24-21-22-54.jpg",
             "caption": "Diverse portfolio of talents and creatives",
             "heading": "Artists",
-            "text": "<p>D'Shay Like Da Vinci Has united Unique artists and selected creatives to Create art inspired by sneakers and culture surrounding them<\/p>",
+            "text": "<p>D'Shay Like Da Vinci Has united Unique artists and selected creatives to Create art inspired by sneakers and culture surrounding them</p>",
             "button_label": "Artist collection",
-            "button_link": "shopify:\/\/pages\/artists"
+            "button_link": "shopify://pages/artists"
           }
         },
         "row_AqAabc": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/52_b2fb830c-ea4e-4da6-9ab4-b644d9343d78.png",
+            "image": "shopify://shop_images/52_b2fb830c-ea4e-4da6-9ab4-b644d9343d78.png",
             "caption": "Sneaker art by your favorite IOTKz artists",
             "heading": "Art",
-            "text": "<p>You bought the kickz but how do you celebrate them daily!?  Check out the latest innovative sneaker art by IOTKz highly talented roster of artists who are pushing the standards on Kick culture!<\/p>",
+            "text": "<p>You bought the kickz but how do you celebrate them daily!?  Check out the latest innovative sneaker art by IOTKz highly talented roster of artists who are pushing the standards on Kick culture!</p>",
             "button_label": "Art",
-            "button_link": "shopify:\/\/collections\/physical-prints"
+            "button_link": "shopify://collections/physical-prints"
           }
         },
         "row_Tg6xNF": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-02-22.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-11-24-10-02-22.jpg",
             "caption": "Paint parties, Sneakercons and more",
             "heading": "Events",
-            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties' as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!<\/p>",
+            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties' as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!</p>",
             "button_label": "Events",
-            "button_link": "shopify:\/\/pages\/event-management-page"
+            "button_link": "shopify://pages/event-management-page"
           }
         }
       },
@@ -367,21 +423,21 @@
         "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Local Pickup<\/strong><\/em>",
+            "heading": "<em><strong>Local Pickup</strong></em>",
             "heading_size": "h2"
           }
         },
         "template--15727185854511__142260ca-e326-445f-a9e1-210402c946cd-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you live in the Richmond, VA area or the Miami, FL area, and would like to coordinate a holiday pickup, please contact us.<\/p>"
+            "text": "<p>If you live in the Richmond, VA area or the Miami, FL area, and would like to coordinate a holiday pickup, please contact us.</p>"
           }
         },
         "7a73dde3-3300-4a4b-bcd0-8e159f31efbf": {
           "type": "button",
           "settings": {
             "button_label": "Contact",
-            "button_link": "shopify:\/\/pages\/sneaker-art",
+            "button_link": "shopify://pages/sneaker-art",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -417,7 +473,7 @@
         "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Sign up and be the first to know about new collections and receive exclusive offers. No spam.<\/p>"
+            "text": "<p>Sign up and be the first to know about new collections and receive exclusive offers. No spam.</p>"
           }
         },
         "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-email_form-1": {
@@ -446,7 +502,7 @@
           "settings": {
             "caption": "Caption",
             "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -456,7 +512,7 @@
           "settings": {
             "caption": "Caption",
             "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -466,7 +522,7 @@
           "settings": {
             "caption": "Caption",
             "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -497,6 +553,7 @@
   },
   "order": [
     "rich_text_QLDNqU",
+    "image_with_text_Xd6bia",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",

@@ -15,7 +15,7 @@
         "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Events",
+            "heading": "Bacon ‘n BredzZ",
             "heading_size": "h1"
           }
         },
@@ -30,13 +30,14 @@
         "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-heading-1",
         "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 16
+        "padding_bottom": 0
       }
     },
     "main": {
@@ -47,60 +48,85 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_XKnYgc": {
-      "type": "image-with-text",
+    "multirow_47VP3E": {
+      "type": "multirow",
       "blocks": {
-        "heading_NELmxU": {
-          "type": "heading",
+        "row_6Addip": {
+          "type": "row",
           "settings": {
+            "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+            "caption": "",
             "heading": "Bacon ‘n BredzZ",
-            "heading_size": "h1"
-          }
-        },
-        "caption_xEmg3W": {
-          "type": "caption",
-          "settings": {
-            "caption": "It’s a brunch ‘n paint…                 and a wake n bake!",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text_TYXfQ9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join us for an extraordinary evening of creativity and style at the \"Kicks on Canvas Sip and Paint\" party! This unique event blends artistry with fashion, inviting you to unleash your inner designer and step into a world where heels clash with kicks</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Xhzr8z": {
-          "type": "button",
-          "settings": {
-            "button_label": "More Info",
-            "button_link": "shopify://pages/event-calendar",
-            "button_style_secondary": false
+            "text": "<h2></h2><h2> Saturday, November 23rd  </h2><h2>  </h2><h2> 11am - 3pm</h2><h2>12 W Broad St.</h2>",
+            "button_label": "Buy Tickets!",
+            "button_link": "shopify://products/bacon-n-bredz"
           }
         }
       },
       "block_order": [
-        "heading_NELmxU",
-        "caption_xEmg3W",
-        "text_TYXfQ9",
-        "button_Xhzr8z"
+        "row_6Addip"
       ],
       "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "image_layout": "alternate-left",
         "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
+        "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_6hhjTn": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_WeLRB3": {
+          "type": "caption",
+          "settings": {
+            "caption": "ONLY 50 SEATS AVAILABLE!  CALL AHEAD FOR GROUPS!  804-939-4901",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "caption_WeLRB3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_gdLY4e": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qzm6Fk": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the event:",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qzm6Fk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
@@ -109,28 +135,26 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
           "type": "column",
           "settings": {
-            "title": "IOTKz Paint PartiezZ!!!",
-            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!</p>",
+            "title": "",
+            "text": "<p>Pull up to MySelfies with us at 12 W Broad St (at 11am!)🙌🏽. When you enter,  you’ll be surrounded by IOTKz sneaker art and RVA’s own DJ Landmark will be controlling the vibes with your fav brunch hits!  </p><p></p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
+        "column_GLGN7M": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33_4.jpg",
             "title": "",
-            "text": "",
+            "text": "<p>Choose your seats, where you’ll find rolling trays and ashtrays provided by Zooted Trayss!  It’s BYOTree (NO VENDORS❌) so spark up comfortablyy and fellowship with other 420 friendly professionals in the city!  </p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
+        "column_iREEXn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33_2.jpg",
             "title": "",
-            "text": "",
+            "text": "<p>Oh, and when those munchiez HIT: Heal Thyself mixes will be on deck with innovative brunchiez (you won’t believe are VEGAN!) and also hit the jackpot with 777 Eatz, doing what they do best, serving Vegas Casino worthy dishes!  All small plates will be $5 so you can try a variety of different optionzZ!</p>",
             "link_label": "",
             "link": ""
           }
@@ -138,8 +162,8 @@
       },
       "block_order": [
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2",
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3"
+        "column_GLGN7M",
+        "column_iREEXn"
       ],
       "settings": {
         "title": "",
@@ -154,54 +178,51 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "550c2655-495b-450b-8d4d-50c29d639fd7": {
+    "multicolumn_W9a3DE": {
       "type": "multicolumn",
       "blocks": {
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-1": {
+        "column_BrfNPc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/20200214_212412_1.jpg",
-            "title": "",
-            "text": "",
+            "title": "Mimosas!",
+            "text": "<p>-visit the bar for infused mimosa kits by Shoe Crazy Wine or more traditional drinks from our bartenders!</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-2": {
+        "column_KpMRdf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/20200214_202716_1.jpg",
-            "title": "",
-            "text": "",
+            "title": "Art!",
+            "text": "<p>-check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>- Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-3": {
+        "column_ctV9Yp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33.jpg",
-            "title": "",
-            "text": "",
+            "title": "Selfies!",
+            "text": "<p>-see IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-1",
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-2",
-        "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-3"
+        "column_BrfNPc",
+        "column_KpMRdf",
+        "column_ctV9Yp"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
@@ -210,98 +231,61 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8288a557-7693-42e2-a517-0ecca6c49622": {
-      "type": "collage",
-      "blocks": {
-        "36bed452-3619-42a8-a10d-1a8b54f088d6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20230326_171700.jpg",
-            "image_padding": false
-          }
-        },
-        "e06a28d7-cf3a-471f-ae05-13e65cebc93b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20230326_131516.jpg",
-            "image_padding": false
-          }
-        },
-        "4ab17209-c735-462d-b058-fa47759b8f2b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20230624_182124.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "36bed452-3619-42a8-a10d-1a8b54f088d6",
-        "e06a28d7-cf3a-471f-ae05-13e65cebc93b",
-        "4ab17209-c735-462d-b058-fa47759b8f2b"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
-    "a0aa99c8-9040-4b19-b67c-87a083d7b51d": {
-      "type": "collage",
+    "rich_text_LqN9mE": {
+      "type": "rich-text",
       "blocks": {
-        "c8a0f90c-fa26-48a3-a934-3ccc21a87da2": {
-          "type": "image",
+        "heading_QqQpPa": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2023-10-25-13-24-01.jpg",
-            "image_padding": false
+            "heading": "Bonuses!",
+            "heading_size": "h1"
           }
         },
-        "a59d6dac-8037-4eb7-991a-7fab24e44bb0": {
-          "type": "image",
+        "text_qDfVQm": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Reelvideo-23939.jpg",
-            "image_padding": false
+            "text": "<p></p><p>—&gt;1st 10 ticket purchases come with a FREE Shoe Crazy Wine infused mimosa kit!</p><p>—&gt; 2nd wave of ticket purchases (11-20) come with 1 FREE bag of IOTKz x Lammar Marie’s Signature Sneaker Themed Popcorn, your choice of Bred Luv, Grape & Cheeseboard or New Heat!</p><p>—&gt; 3rd wave of ticket purchases (21-30) come with FREE hand crafted sneaker-themed bracelet from IOTKz Splash Gallery!</p><p>—&gt; 4th wave of ticket purchases (31-40) come with 1 FREE brunch item from Heal Thyself Mixes OR 777 Eatz ($5 Value)</p><p>—&gt; 5th wave of ticket purchases (41-50) come with 1 FREE 8 x 10 framed & signed “Popcorn Kobe” print, created by IOTKz D’Shay Like Da Vinci & StevesArt4u.</p><p></p>"
           }
         },
-        "90112315-499a-4278-8fb1-b9668c76f294": {
-          "type": "image",
+        "button_3hd849": {
+          "type": "button",
           "settings": {
-            "image": "shopify://shop_images/PHOTO-2023-11-22-22-47-43_2.jpg",
-            "image_padding": false
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "c8a0f90c-fa26-48a3-a934-3ccc21a87da2",
-        "a59d6dac-8037-4eb7-991a-7fab24e44bb0",
-        "90112315-499a-4278-8fb1-b9668c76f294"
+        "heading_QqQpPa",
+        "text_qDfVQm",
+        "button_3hd849"
       ],
       "settings": {
-        "heading": "Sneaker Events!",
-        "heading_size": "h1",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 88
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "0c864232-6598-4242-8b75-68c77923db84",
     "main",
-    "image_with_text_XKnYgc",
+    "multirow_47VP3E",
+    "rich_text_6hhjTn",
+    "rich_text_gdLY4e",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
-    "550c2655-495b-450b-8d4d-50c29d639fd7",
-    "8288a557-7693-42e2-a517-0ecca6c49622",
-    "a0aa99c8-9040-4b19-b67c-87a083d7b51d"
+    "multicolumn_W9a3DE",
+    "rich_text_LqN9mE"
   ]
 }
