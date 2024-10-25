@@ -48,38 +48,51 @@
         "padding_bottom": 0
       }
     },
-    "multirow_47VP3E": {
-      "type": "multirow",
+    "image_with_text_gHT7HH": {
+      "type": "image-with-text",
       "blocks": {
-        "row_6Addip": {
-          "type": "row",
+        "heading_xtdMya": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
-            "caption": "",
             "heading": "Bacon ‘n BredzZ",
-            "text": "<h2></h2><h2> Saturday, November 23rd  </h2><h2>  </h2><h2> 11am - 3pm</h2><h2>12 W Broad St.</h2>",
+            "heading_size": "h1"
+          }
+        },
+        "text_ingiPU": {
+          "type": "text",
+          "settings": {
+            "text": "<h2> Saturday, November 23rd  </h2><h2>  </h2><h2> 11am - 3pm</h2><h2>12 W Broad St.</h2>",
+            "text_style": "body"
+          }
+        },
+        "button_xQwVKX": {
+          "type": "button",
+          "settings": {
             "button_label": "Buy Tickets!",
-            "button_link": "shopify://products/bacon-n-bredz"
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "row_6Addip"
+        "heading_xtdMya",
+        "text_ingiPU",
+        "button_xQwVKX"
       ],
       "settings": {
-        "image_height": "medium",
+        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
+        "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 12,
-        "padding_bottom": 0
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_6hhjTn": {
@@ -189,7 +202,7 @@
           "type": "column",
           "settings": {
             "title": "Mimosas!",
-            "text": "<p>visit the bar for infused mimosa kits by Shoe Crazy Wine or more traditional drinks from our bartenders!</p>",
+            "text": "<p>Visit the bar for infused mimosa kits by Shoe Crazy Wine or more traditional drinks from our bartenders!</p>",
             "link_label": "",
             "link": ""
           }
@@ -198,7 +211,7 @@
           "type": "column",
           "settings": {
             "title": "Art!",
-            "text": "<p>check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
+            "text": "<p>Check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
             "link_label": "",
             "link": ""
           }
@@ -207,7 +220,7 @@
           "type": "column",
           "settings": {
             "title": "Selfies!",
-            "text": "<p>see IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
+            "text": "<p>See IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
             "link_label": "",
             "link": ""
           }
@@ -276,7 +289,7 @@
   "order": [
     "0c864232-6598-4242-8b75-68c77923db84",
     "main",
-    "multirow_47VP3E",
+    "image_with_text_gHT7HH",
     "rich_text_6hhjTn",
     "rich_text_gdLY4e",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
