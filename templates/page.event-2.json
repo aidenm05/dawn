@@ -135,7 +135,7 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "Vibes!",
             "text": "<p>Pull up to MySelfies with us at 12 W Broad St (at 11am!)🙌🏽. When you enter,  you’ll be surrounded by IOTKz sneaker art and RVA’s own DJ Landmark will be controlling the vibes with your fav brunch hits!  </p><p></p>",
             "link_label": "",
             "link": ""
@@ -144,7 +144,7 @@
         "column_GLGN7M": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "BYOTree!",
             "text": "<p>Choose your seats, where you’ll find rolling trays and ashtrays provided by Zooted Trayss!  It’s BYOTree (NO VENDORS❌) so spark up comfortablyy and fellowship with other 420 friendly professionals in the city!  </p>",
             "link_label": "",
             "link": ""
@@ -153,7 +153,7 @@
         "column_iREEXn": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "Brunch!",
             "text": "<p>Oh, and when those munchiez HIT: Heal Thyself mixes will be on deck with innovative brunchiez (you won’t believe are VEGAN!) and also hit the jackpot with 777 Eatz, doing what they do best, serving Vegas Casino worthy dishes!  All small plates will be $5 so you can try a variety of different optionzZ!</p>",
             "link_label": "",
             "link": ""
@@ -189,7 +189,7 @@
           "type": "column",
           "settings": {
             "title": "Mimosas!",
-            "text": "<p>-visit the bar for infused mimosa kits by Shoe Crazy Wine or more traditional drinks from our bartenders!</p>",
+            "text": "<p>visit the bar for infused mimosa kits by Shoe Crazy Wine or more traditional drinks from our bartenders!</p>",
             "link_label": "",
             "link": ""
           }
@@ -198,7 +198,7 @@
           "type": "column",
           "settings": {
             "title": "Art!",
-            "text": "<p>-check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>- Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
+            "text": "<p>check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
             "link_label": "",
             "link": ""
           }
@@ -207,7 +207,7 @@
           "type": "column",
           "settings": {
             "title": "Selfies!",
-            "text": "<p>-see IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
+            "text": "<p>see IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
             "link_label": "",
             "link": ""
           }
