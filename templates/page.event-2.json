@@ -235,44 +235,11 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_LqN9mE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QqQpPa": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bonuses!",
-            "heading_size": "h1"
-          }
-        },
-        "text_qDfVQm": {
-          "type": "text",
-          "settings": {
-            "text": "<p></p><p>—&gt;1st 10 ticket purchases come with a FREE Shoe Crazy Wine infused mimosa kit!</p><p>—&gt; 2nd wave of ticket purchases (11-20) come with 1 FREE bag of IOTKz x Lammar Marie’s Signature Sneaker Themed Popcorn, your choice of Bred Luv, Grape & Cheeseboard or New Heat!</p><p>—&gt; 3rd wave of ticket purchases (21-30) come with FREE hand crafted sneaker-themed bracelet from IOTKz Splash Gallery!</p><p>—&gt; 4th wave of ticket purchases (31-40) come with 1 FREE brunch item from Heal Thyself Mixes OR 777 Eatz ($5 Value)</p><p>—&gt; 5th wave of ticket purchases (41-50) come with 1 FREE 8 x 10 framed & signed “Popcorn Kobe” print, created by IOTKz D’Shay Like Da Vinci & StevesArt4u.</p><p></p>"
-          }
-        },
-        "button_3hd849": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QqQpPa",
-        "text_qDfVQm",
-        "button_3hd849"
-      ],
+    "custom_liquid_wRAKQQ": {
+      "type": "custom-liquid",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "custom_liquid": "<h2 style=\"text-align: center;\">Bonuses!</h2>\n<br>\n\n<p style=\"text-align: center;\">—> 1st 10 ticket purchases come with a FREE Shoe Crazy Wine infused mimosa kit!</p>\n<br>\n<p style=\"text-align: center;\">—> 2nd wave of ticket purchases (11-20) come with 1 FREE bag of IOTKz x Lammar Marie’s Signature Sneaker Themed Popcorn, your choice of Bred Luv, Grape & Cheeseboard, or New Heat!</p>\n<br>\n<p style=\"text-align: center;\">—> 3rd wave of ticket purchases (21-30) come with FREE handcrafted sneaker-themed bracelet from IOTKz Splash Gallery!</p>\n<br>\n<p style=\"text-align: center;\">—> 4th wave of ticket purchases (31-40) come with 1 FREE brunch item from Heal Thyself Mixes OR 777 Eatz ($5 Value)</p>\n<br>\n<p style=\"text-align: center;\">—> 5th wave of ticket purchases (41-50) come with 1 FREE 8 x 10 framed & signed “Popcorn Kobe” print, created by IOTKz D'Shay Like Da Vinci & StevesArt4u.</p>",
         "color_scheme": "",
-        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -342,7 +309,7 @@
     "rich_text_gdLY4e",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
     "multicolumn_W9a3DE",
-    "rich_text_LqN9mE",
+    "custom_liquid_wRAKQQ",
     "multicolumn_tnYKpx"
   ]
 }
