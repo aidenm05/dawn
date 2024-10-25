@@ -31,6 +31,30 @@
         "padding_bottom": 12
       }
     },
+    "rich_text_YbdgDe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YGn9AD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGn9AD"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_Xd6bia": {
       "type": "image-with-text",
       "blocks": {
@@ -66,7 +90,7 @@
         "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
@@ -553,6 +577,7 @@
   },
   "order": [
     "rich_text_QLDNqU",
+    "rich_text_YbdgDe",
     "image_with_text_Xd6bia",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "multicolumn_xL3i8F",
