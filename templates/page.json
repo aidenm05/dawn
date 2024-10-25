@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "0c864232-6598-4242-8b75-68c77923db84": {
@@ -44,33 +53,42 @@
         "heading_NELmxU": {
           "type": "heading",
           "settings": {
-            "heading": "Kicks on Canvas Sip & Paint - Heels VS Kicks Edition",
+            "heading": "Bacon ‘n BredzZ",
             "heading_size": "h1"
+          }
+        },
+        "caption_xEmg3W": {
+          "type": "caption",
+          "settings": {
+            "caption": "It’s a brunch ‘n paint…                 and a wake n bake!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "text_TYXfQ9": {
           "type": "text",
           "settings": {
-            "text": "<p>Join us for an extraordinary evening of creativity and style at the \"Kicks on Canvas Sip and Paint\" party! This unique event blends artistry with fashion, inviting you to unleash your inner designer and step into a world where heels clash with kicks<\/p>",
+            "text": "<p>Join us for an extraordinary evening of creativity and style at the \"Kicks on Canvas Sip and Paint\" party! This unique event blends artistry with fashion, inviting you to unleash your inner designer and step into a world where heels clash with kicks</p>",
             "text_style": "body"
           }
         },
         "button_Xhzr8z": {
           "type": "button",
           "settings": {
-            "button_label": "Buy tickets",
-            "button_link": "https:\/\/www.mljartistry.com\/event-details\/kicks-on-canvas-sip-paint-heels-vs-kicks-edition",
+            "button_label": "More Info",
+            "button_link": "shopify://pages/event-calendar",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_NELmxU",
+        "caption_xEmg3W",
         "text_TYXfQ9",
         "button_Xhzr8z"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cf21e6_1d21cf06cc4b4c1ea44beb13255a7829_mv2_1.webp",
+        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -92,7 +110,7 @@
           "type": "column",
           "settings": {
             "title": "IOTKz Paint PartiezZ!!!",
-            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!<\/p>",
+            "text": "<p>Enjoy a relaxed atmosphere and safe spaces with just the right amount of \"turn up\" at our signature adult IOTKz Paint & Sipz and BYOTree Puff & Paints!  We also offer kid friendly parties as well!  We are always innovating so stay tuned and sign up for our newsletter as we gear up for the 2024 season!</p>",
             "link_label": "",
             "link": ""
           }
@@ -100,7 +118,7 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33_4.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33_4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -110,7 +128,7 @@
         "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33_2.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -146,7 +164,7 @@
         "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20200214_212412_1.jpg",
+            "image": "shopify://shop_images/20200214_212412_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -156,7 +174,7 @@
         "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20200214_202716_1.jpg",
+            "image": "shopify://shop_images/20200214_202716_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -166,7 +184,7 @@
         "template--15727185920047__550c2655-495b-450b-8d4d-50c29d639fd7-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-24-10-19-33.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-11-24-10-19-33.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -202,21 +220,21 @@
         "36bed452-3619-42a8-a10d-1a8b54f088d6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230326_171700.jpg",
+            "image": "shopify://shop_images/20230326_171700.jpg",
             "image_padding": false
           }
         },
         "e06a28d7-cf3a-471f-ae05-13e65cebc93b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230326_131516.jpg",
+            "image": "shopify://shop_images/20230326_131516.jpg",
             "image_padding": false
           }
         },
         "4ab17209-c735-462d-b058-fa47759b8f2b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230624_182124.jpg",
+            "image": "shopify://shop_images/20230624_182124.jpg",
             "image_padding": false
           }
         }
@@ -242,21 +260,21 @@
         "c8a0f90c-fa26-48a3-a934-3ccc21a87da2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-10-25-13-24-01.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-10-25-13-24-01.jpg",
             "image_padding": false
           }
         },
         "a59d6dac-8037-4eb7-991a-7fab24e44bb0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Reelvideo-23939.jpg",
+            "image": "shopify://shop_images/Reelvideo-23939.jpg",
             "image_padding": false
           }
         },
         "90112315-499a-4278-8fb1-b9668c76f294": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PHOTO-2023-11-22-22-47-43_2.jpg",
+            "image": "shopify://shop_images/PHOTO-2023-11-22-22-47-43_2.jpg",
             "image_padding": false
           }
         }
