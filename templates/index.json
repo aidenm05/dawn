@@ -31,6 +31,64 @@
         "padding_bottom": 12
       }
     },
+    "rich_text_eFJwxG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hj8mrh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Featured Event!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_tAMeK3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Brunch 'n Paint with a Wake 'n Bake Twist!</p>"
+          }
+        },
+        "button_fCRNFj": {
+          "type": "button",
+          "settings": {
+            "button_label": "More info and Ticktets",
+            "button_link": "shopify://products/bacon-n-bredz",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hj8mrh",
+        "text_tAMeK3",
+        "button_fCRNFj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_cVzVdz": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text_YbdgDe": {
       "type": "rich-text",
       "blocks": {
@@ -53,53 +111,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "image_with_text_Xd6bia": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_hwqpyU": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Featured Event!</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_tjb3TB": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>Brunch'n paint with a wake n bake twist!<br/></h5>",
-            "text_style": "body"
-          }
-        },
-        "button_k7ecPK": {
-          "type": "button",
-          "settings": {
-            "button_label": "More info and Ticktets",
-            "button_link": "shopify://pages/icing-on-the-kickz-presents-bacon-n-bredzz",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_hwqpyU",
-        "text_tjb3TB",
-        "button_k7ecPK"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
@@ -577,8 +588,9 @@
   },
   "order": [
     "rich_text_QLDNqU",
+    "rich_text_eFJwxG",
+    "image_banner_cVzVdz",
     "rich_text_YbdgDe",
-    "image_with_text_Xd6bia",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",
