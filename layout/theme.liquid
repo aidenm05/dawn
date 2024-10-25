@@ -1,12 +1,16 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
-    @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     product-recommendations ul  {
         display: flex !important;
         flex-wrap: nowrap !important;
         overflow-x: scroll !important;
     }    
+
+    h2.related-products__heading.inline-richtext.h2 {
+        text-align: center !important;
+    }
 }
  {%- render 'ecom_header' -%}
     <meta charset="utf-8">
