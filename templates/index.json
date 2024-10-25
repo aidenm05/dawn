@@ -40,29 +40,10 @@
             "heading": "<strong>Featured Event!</strong>",
             "heading_size": "h1"
           }
-        },
-        "text_tAMeK3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Brunch 'n Paint with a Wake 'n Bake Twist!</p>"
-          }
-        },
-        "button_fCRNFj": {
-          "type": "button",
-          "settings": {
-            "button_label": "More info and Ticktets",
-            "button_link": "shopify://pages/icing-on-the-kickz-presents-bacon-n-bredzz",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading_hj8mrh",
-        "text_tAMeK3",
-        "button_fCRNFj"
+        "heading_hj8mrh"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -86,6 +67,56 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_4TL7cP": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UXm3Rq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Brunch 'n Paint with a Wake 'n Bake Twist!</p>"
+          }
+        },
+        "button_ghfrzY": {
+          "type": "button",
+          "settings": {
+            "button_label": "More info and Ticktets",
+            "button_link": "shopify://pages/icing-on-the-kickz-presents-bacon-n-bredzz",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_UXm3Rq",
+        "button_ghfrzY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/download_31_2.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -113,40 +144,34 @@
         "padding_bottom": 52
       }
     },
-    "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
-      "type": "image-banner",
+    "rich_text_eNrTYV": {
+      "type": "rich-text",
       "blocks": {
-        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1": {
+        "heading_pcC9eg": {
           "type": "heading",
           "settings": {
             "heading": "ICING ON THE KICKZ X LAMMAR MARIE'S SNEAKER-THEMED POPCORN COLLAB IS HERE!",
             "heading_size": "h1"
           }
         },
-        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1": {
+        "text_wqFMrW": {
           "type": "text",
           "settings": {
-            "text": "Do you love kick culture?  Or reeally want to show your munchie-loving sneaker-crazed friend some bred love?  The Top V (5) from our Icing On The Kickz X Lammar Marie Luxury Popcorn collab will do the trick!  Or cop The Pick III (3)!  Each bag is made with premium ingredients, flavors & colorways curated by Icing On The Kickz owner D'Shay Like Da Vinci, then crafted by Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn!  Think OUTSIDE the box, grab a Top V or Pick III and tear INTO a bag!",
-            "text_style": "body"
+            "text": "<p>Do you love kick culture?  Or reeally want to show your munchie-loving sneaker-crazed friend some bred love?  The Top V (5) from our Icing On The Kickz X Lammar Marie Luxury Popcorn collab will do the trick!  Or cop The Pick III (3)!  Each bag is made with premium ingredients, flavors & colorways curated by Icing On The Kickz owner D'Shay Like Da Vinci, then crafted by Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn!  Think OUTSIDE the box, grab a Top V or Pick III and tear INTO a bag!</p>"
           }
         }
       },
       "block_order": [
-        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-heading-1",
-        "template--15727185854511__d0fb797d-1c06-4308-801b-1cbcb28d52a7-text-1"
+        "heading_pcC9eg",
+        "text_wqFMrW"
       ],
       "settings": {
-        "image": "shopify://shop_images/download_31_2.svg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_xL3i8F": {
@@ -588,10 +613,12 @@
   },
   "order": [
     "rich_text_QLDNqU",
+    "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "rich_text_eFJwxG",
     "image_banner_cVzVdz",
+    "rich_text_4TL7cP",
     "rich_text_YbdgDe",
-    "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
+    "rich_text_eNrTYV",
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
