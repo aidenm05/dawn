@@ -39,68 +39,80 @@
         "padding_bottom": 16
       }
     },
+    "featured_product_DD8RnD": {
+      "type": "featured-product",
+      "blocks": {
+        "text_WR3QGz": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_6fAQMe": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_zATTjM": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_6qYctY": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_DpR8Le": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_UeY3HX": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_rpBFag": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_WR3QGz",
+        "title_6fAQMe",
+        "price_zATTjM",
+        "variant_picker_6qYctY",
+        "quantity_selector_DpR8Le",
+        "buy_buttons_UeY3HX",
+        "share_rpBFag"
+      ],
+      "settings": {
+        "product": "one-of-them-juan-s-paint-n-sip",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "padding_top": 32,
         "padding_bottom": 0
-      }
-    },
-    "image_with_text_XKnYgc": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_NELmxU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bacon ‘n BredzZ",
-            "heading_size": "h1"
-          }
-        },
-        "caption_xEmg3W": {
-          "type": "caption",
-          "settings": {
-            "caption": "It’s a brunch ‘n paint…                 and a wake n bake!",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text_TYXfQ9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join us for an extraordinary evening of creativity and style at the \"Kicks on Canvas Sip and Paint\" party! This unique event blends artistry with fashion, inviting you to unleash your inner designer and step into a world where heels clash with kicks</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Xhzr8z": {
-          "type": "button",
-          "settings": {
-            "button_label": "More Info",
-            "button_link": "shopify://pages/event-calendar",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_NELmxU",
-        "caption_xEmg3W",
-        "text_TYXfQ9",
-        "button_Xhzr8z"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
@@ -297,8 +309,8 @@
   },
   "order": [
     "0c864232-6598-4242-8b75-68c77923db84",
+    "featured_product_DD8RnD",
     "main",
-    "image_with_text_XKnYgc",
     "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
     "550c2655-495b-450b-8d4d-50c29d639fd7",
     "8288a557-7693-42e2-a517-0ecca6c49622",
