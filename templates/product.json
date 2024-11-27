@@ -1,17 +1,92 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "featured_product_pBgYJM": {
+      "type": "featured-product",
+      "blocks": {
+        "text_TrJnVt": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_BXqTnL": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_UqH7GP": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_JVUWA7": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_Q7fRHK": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_iTTgVt": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_HQMUaT": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_TrJnVt",
+        "title_BXqTnL",
+        "price_UqH7GP",
+        "variant_picker_JVUWA7",
+        "quantity_selector_Q7fRHK",
+        "buy_buttons_iTTgVt",
+        "share_HQMUaT"
+      ],
+      "settings": {
+        "product": "one-of-them-juan-s-paint-n-sip",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "caption": {
           "type": "text",
@@ -28,13 +103,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -53,6 +126,7 @@
         "description",
         "buy_buttons"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "media_size": "medium",
@@ -91,6 +165,7 @@
     }
   },
   "order": [
+    "featured_product_pBgYJM",
     "main",
     "related-products"
   ]

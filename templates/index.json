@@ -31,6 +31,22 @@
         "padding_bottom": 12
       }
     },
+    "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/download_31_2.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
     "rich_text_eFJwxG": {
       "type": "rich-text",
       "blocks": {
@@ -57,7 +73,7 @@
     "image_banner_cVzVdz": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+        "image": "shopify://shop_images/image1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -102,22 +118,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/download_31_2.svg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
       }
     },
     "rich_text_YbdgDe": {
@@ -538,8 +538,7 @@
         },
         "template--15727185854511__c11a8e52-6fd6-4570-8099-0fccecb4f4f0-email_form-1": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [

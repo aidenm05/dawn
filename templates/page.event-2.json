@@ -54,14 +54,14 @@
         "heading_xtdMya": {
           "type": "heading",
           "settings": {
-            "heading": "Bacon ‘n BredzZ",
+            "heading": "One of Them Juan’s Paint ’n Sip",
             "heading_size": "h1"
           }
         },
         "text_ingiPU": {
           "type": "text",
           "settings": {
-            "text": "<h2> Saturday, November 23rd  </h2><h2>  </h2><h2> 11am - 3pm</h2><h2>12 W Broad St.</h2>",
+            "text": "<h2>Juan’s Rooftop & Cantina</h2><h2></h2><h2>Wednesday, December 4th</h2><h2>7:00 PM - 10:00 PM</h2>",
             "text_style": "body"
           }
         },
@@ -80,7 +80,7 @@
         "button_xQwVKX"
       ],
       "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
+        "image": "shopify://shop_images/image1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -101,7 +101,7 @@
         "caption_WeLRB3": {
           "type": "caption",
           "settings": {
-            "caption": "ONLY 50 SEATS AVAILABLE!  CALL AHEAD FOR GROUPS!  804-939-4901",
+            "caption": "CALL AHEAD FOR GROUPS!  804-939-4901",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -133,6 +133,7 @@
       "block_order": [
         "heading_qzm6Fk"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -178,6 +179,7 @@
         "column_GLGN7M",
         "column_iREEXn"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -231,6 +233,7 @@
         "column_KpMRdf",
         "column_ctV9Yp"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -250,6 +253,7 @@
     },
     "custom_liquid_wRAKQQ": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<h2 style=\"text-align: center;\">BONUSES!</h2> <br> <p style=\"text-align: center;\">—> 1ST 10 TICKET PURCHASES COME WITH A FREE SHOE CRAZY WINE INFUSED MIMOSA KIT!</p> <br> <p style=\"text-align: center;\">—> 2ND WAVE OF TICKET PURCHASES (11-20) COME WITH 1 FREE BAG OF IOTKZ X LAMMAR MARIE’S SIGNATURE SNEAKER THEMED POPCORN, YOUR CHOICE OF BRED LUV, GRAPE & CHEESEBOARD, OR NEW HEAT!</p> <br> <p style=\"text-align: center;\">—> 3RD WAVE OF TICKET PURCHASES (21-30) COME WITH FREE HANDCRAFTED SNEAKER-THEMED BRACELET FROM IOTKZ SPLASH GALLERY!</p> <br> <p style=\"text-align: center;\">—> 4TH WAVE OF TICKET PURCHASES (31-40) COME WITH 1 FREE BRUNCH ITEM FROM HEAL THYSELF MIXES OR 777 EATZ ($5 VALUE)</p> <br> <p style=\"text-align: center;\">—> 5TH WAVE OF TICKET PURCHASES (41-50) COME WITH 1 FREE 8 X 10 FRAMED & SIGNED “POPCORN KOBE” PRINT, CREATED BY IOTKZ D'SHAY LIKE DA VINCI & STEVESART4U.</p>",
         "color_scheme": "",
