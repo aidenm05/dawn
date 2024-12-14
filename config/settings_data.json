@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Untitled_design_5.svg",
+    "logo": "shopify://shop_images/Untitled_design_5.svg",
     "logo_width": 90,
-    "favicon": "shopify:\/\/shop_images\/Untitled_design_6.svg",
+    "favicon": "shopify://shop_images/Untitled_design_6.svg",
     "type_header_font": "montserrat_n5",
     "heading_scale": 100,
     "type_body_font": "roboto_n4",
@@ -99,9 +108,9 @@
     "sale_badge_color_scheme": "background-1",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "IOTKz",
-    "brand_description": "<p>Welcome to Icing on The Kicks! We're the real deal spot for unique finds – from sleek handcrafted bracelets to the sickest art. Ready to level up your snack game and jewelry box? We got you. Keep it fresh, keep it Icing on The Kickz.<\/p>",
+    "brand_description": "<p>Welcome to Icing on The Kicks! We're the real deal spot for unique finds – from sleek handcrafted bracelets to the sickest art. Ready to level up your snack game and jewelry box? We got you. Keep it fresh, keep it Icing on The Kickz.</p>",
     "social_facebook_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/icingonthekickz\/",
+    "social_instagram_link": "https://www.instagram.com/icingonthekickz/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -117,7 +126,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
+    "checkout_logo_image": "shopify://shop_images/Untitled_design.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#383a41",
@@ -139,33 +148,27 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "6986766168588894248": {
-        "type": "shopify:\/\/apps\/preorder-now-wolf\/blocks\/app-embed\/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
+        "type": "shopify://apps/preorder-now-wolf/blocks/app-embed/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "9830603425545883938": {
-        "type": "shopify:\/\/apps\/event-management-myappgurus\/blocks\/embeded-block\/04cb155d-51d4-41b2-9404-060929405730",
+        "type": "shopify://apps/event-management-myappgurus/blocks/embeded-block/04cb155d-51d4-41b2-9404-060929405730",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7428323069960965799": {
-        "type": "shopify:\/\/apps\/shipbar-free-shipping-bar\/blocks\/app-embed\/7858de86-21a8-4a6d-b8f0-5a40610c0e61",
+        "type": "shopify://apps/shipbar-free-shipping-bar/blocks/app-embed/7858de86-21a8-4a6d-b8f0-5a40610c0e61",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "21474836472147483647": {
-        "type": "shopify:\/\/apps\/ecomposer-landing-page-builder\/blocks\/app-embed\/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
+        "type": "shopify://apps/ecomposer-landing-page-builder/blocks/app-embed/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
@@ -413,8 +416,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }

@@ -9,252 +9,12 @@
  */
 {
   "sections": {
-    "0c864232-6598-4242-8b75-68c77923db84": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bacon ‘n BredzZ",
-            "heading_size": "h1"
-          }
-        },
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-heading-1",
-        "template--15727185920047__0c864232-6598-4242-8b75-68c77923db84-text-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "padding_top": 32,
         "padding_bottom": 0
-      }
-    },
-    "image_with_text_gHT7HH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_xtdMya": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bacon ‘n BredzZ",
-            "heading_size": "h1"
-          }
-        },
-        "text_ingiPU": {
-          "type": "text",
-          "settings": {
-            "text": "<h2> Saturday, November 23rd  </h2><h2>  </h2><h2> 11am - 3pm</h2><h2>12 W Broad St.</h2>",
-            "text_style": "body"
-          }
-        },
-        "button_xQwVKX": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Tickets!",
-            "button_link": "shopify://products/bacon-n-bredz",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_xtdMya",
-        "text_ingiPU",
-        "button_xQwVKX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/White_and_Red_Illustrated_Bacon_Eggs_Breakfast_Invitation.png_1_28aee050-61c0-40f7-bc2d-3a686eacb9d1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_6hhjTn": {
-      "type": "rich-text",
-      "blocks": {
-        "caption_WeLRB3": {
-          "type": "caption",
-          "settings": {
-            "caption": "ONLY 50 SEATS AVAILABLE!  CALL AHEAD FOR GROUPS!  804-939-4901",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "caption_WeLRB3"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_gdLY4e": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_qzm6Fk": {
-          "type": "heading",
-          "settings": {
-            "heading": "About the event:",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_qzm6Fk"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Vibes!",
-            "text": "<p>Pull up to MySelfies with us at 12 W Broad St (at 11am!)🙌🏽. When you enter,  you’ll be surrounded by IOTKz sneaker art and RVA’s own DJ Landmark will be controlling the vibes with your fav brunch hits!  </p><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GLGN7M": {
-          "type": "column",
-          "settings": {
-            "title": "BYOTree!",
-            "text": "<p>Choose your seats, where you’ll find rolling trays and ashtrays provided by Zooted Trayss!  It’s BYOTree (NO VENDORS❌) so spark up comfortablyy and fellowship with other 420 friendly professionals in the city!  </p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_iREEXn": {
-          "type": "column",
-          "settings": {
-            "title": "Brunch!",
-            "text": "<p>Oh, and when those munchiez HIT: Heal Thyself mixes will be on deck with innovative brunchiez (you won’t believe are VEGAN!) and also hit the jackpot with 777 Eatz, doing what they do best, serving Vegas Casino worthy dishes!  All small plates will be $5 so you can try a variety of different optionzZ!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15727185920047__73fc29a0-2ee0-49c8-a715-94a20cb9d6b6-column-1",
-        "column_GLGN7M",
-        "column_iREEXn"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_W9a3DE": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_BrfNPc": {
-          "type": "column",
-          "settings": {
-            "title": "Mimosas!",
-            "text": "<p>Visit the bar for infused mimosas by Shoe Crazy Wine and Brēz cannibis + mushroom tonics served by our Kick Crazy bartenders!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_KpMRdf": {
-          "type": "column",
-          "settings": {
-            "title": "Art!",
-            "text": "<p>Check out live digital art mirrored on the big screen by IOTKz artist StevesArt4u!</p><p></p><p>Also be sure to checkout IOTKz and Zooted Trayss merch!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ctV9Yp": {
-          "type": "column",
-          "settings": {
-            "title": "Selfies!",
-            "text": "<p>See IOTKz artist Pablo Precasso recreating the Bacon ‘n Bredz  flyer in a selfie booth backdrop for your final pixX (plus snap a few selfies in My Selfies themed booths!) </p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_BrfNPc",
-        "column_KpMRdf",
-        "column_ctV9Yp"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_wRAKQQ": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<h2 style=\"text-align: center;\">BONUSES!</h2> <br> <p style=\"text-align: center;\">—> 1ST 10 TICKET PURCHASES COME WITH A FREE SHOE CRAZY WINE INFUSED MIMOSA KIT!</p> <br> <p style=\"text-align: center;\">—> 2ND WAVE OF TICKET PURCHASES (11-20) COME WITH 1 FREE BAG OF IOTKZ X LAMMAR MARIE’S SIGNATURE SNEAKER THEMED POPCORN, YOUR CHOICE OF BRED LUV, GRAPE & CHEESEBOARD, OR NEW HEAT!</p> <br> <p style=\"text-align: center;\">—> 3RD WAVE OF TICKET PURCHASES (21-30) COME WITH FREE HANDCRAFTED SNEAKER-THEMED BRACELET FROM IOTKZ SPLASH GALLERY!</p> <br> <p style=\"text-align: center;\">—> 4TH WAVE OF TICKET PURCHASES (31-40) COME WITH 1 FREE BRUNCH ITEM FROM HEAL THYSELF MIXES OR 777 EATZ ($5 VALUE)</p> <br> <p style=\"text-align: center;\">—> 5TH WAVE OF TICKET PURCHASES (41-50) COME WITH 1 FREE 8 X 10 FRAMED & SIGNED “POPCORN KOBE” PRINT, CREATED BY IOTKZ D'SHAY LIKE DA VINCI & STEVESART4U.</p>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "featured_collection_zymYPw": {
@@ -284,17 +44,79 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_pXWJwJ": {
+      "type": "featured-product",
+      "blocks": {
+        "text_7yRaLz": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_f9xjtz": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_N8X8CV": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_GYzwrB": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_NYWqnD": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_NmgJWE": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_3jD3QL": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_7yRaLz",
+        "title_f9xjtz",
+        "price_N8X8CV",
+        "variant_picker_GYzwrB",
+        "quantity_selector_NYWqnD",
+        "buy_buttons_NmgJWE",
+        "share_3jD3QL"
+      ],
+      "settings": {
+        "product": "one-of-them-juan-s-paint-n-sip",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "0c864232-6598-4242-8b75-68c77923db84",
     "main",
-    "image_with_text_gHT7HH",
-    "rich_text_6hhjTn",
-    "rich_text_gdLY4e",
-    "73fc29a0-2ee0-49c8-a715-94a20cb9d6b6",
-    "multicolumn_W9a3DE",
-    "custom_liquid_wRAKQQ",
+    "featured_product_pXWJwJ",
     "featured_collection_zymYPw"
   ]
 }
