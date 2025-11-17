@@ -263,6 +263,9 @@
     },
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
       "type": "image-banner",
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.container {display: none; }}"
+      ],
       "settings": {
         "image": "shopify://shop_images/download_31_2.svg",
         "image_overlay_opacity": 0,
