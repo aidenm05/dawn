@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,7 +30,7 @@
         "text_ePzrdV": {
           "type": "text",
           "settings": {
-            "text": "<p>Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab!!!<\/p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)<\/p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!<\/p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!<\/p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.<\/p>"
+            "text": "<p>Try Icing On The Kickz X Lammar Marie's Gourmet Popcorn Collab!!!</p><p>This creative take on snacking was born out of a need for providing top-tier munchies at IOTKz 'sneaker-themed' paint & sip parties.  The solution became small batches of popcorn, that once packaged, looked like ART themselves! (so much so, that some fans have been calling it \"designer\" popcorn)</p><p>Just as you see in kick culture, they conduct exclusive drops in different colorways on top of having unique flavor combinations!</p><p>Owner of IOTKz D'Shay Like Da Vinci (also, licensed mixologist of 10 years) comes up with the \"mixes\"; combine those with the expertise of Chief Pop Master Rialand Jones, owner of Lammar Marie's Gourmet Popcorn located in the Short Pump area of Richmond, VA, and you have an envelope-pushing concept that can be appreciated by sneakerheads as well as those who just love gourmet munchies!</p><p>A portion of all profits go to IOTKz \"Kickz, Art & Music\" after-school program in Chesterfield, VA, which teaches kids about unique careers in the sneaker world and allows them to express themselves creatively through sneaker art.</p>"
           }
         },
         "caption_yEa9kw": {
@@ -53,21 +62,21 @@
         "template--15881448390703__427d990b-9f6d-4701-844d-739496bd7a65-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Local Pickup<\/strong><\/em>",
+            "heading": "<em><strong>Local Pickup</strong></em>",
             "heading_size": "h2"
           }
         },
         "template--15881448390703__427d990b-9f6d-4701-844d-739496bd7a65-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you live in the Richmond, VA area or the Miami, FL area, and would like to coordinate a holiday pickup, please contact us.<\/p>"
+            "text": "<p>If you live in the Richmond, VA area or the Miami, FL area, and would like to coordinate a holiday pickup, please contact us.</p>"
           }
         },
         "ebca4701-ded1-41fb-a224-a44c54392d13": {
           "type": "button",
           "settings": {
             "button_label": "Contact",
-            "button_link": "shopify:\/\/pages\/sneaker-art",
+            "button_link": "shopify://pages/sneaker-art",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -90,208 +99,33 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn_dc77YV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_LHDdNP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9675.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_LHDdNP"
-      ],
+    "featured_collection_TKbTBw": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "popcorn",
+        "products_to_show": 25,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_bEPfih": {
-      "type": "rich-text",
-      "blocks": {
-        "text_46RmV6": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>LM X IOTKz Top V<\/h5>"
-          }
-        },
-        "button_7VrQCj": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Now",
-            "button_link": "shopify:\/\/products\/5-popcorn-sampler",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "text_hmPyFM": {
-          "type": "text",
-          "settings": {
-            "text": "<h6>$100.00<\/h6>"
-          }
-        }
-      },
-      "block_order": [
-        "text_46RmV6",
-        "button_7VrQCj",
-        "text_hmPyFM"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_D9aL6H": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_HUhWth": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9677.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6qnTQp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9678.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ceEMrt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9681.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gLN7DA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9679.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_W4mah4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9677.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wricda": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_HUhWth",
-        "column_6qnTQp",
-        "column_ceEMrt",
-        "column_gLN7DA",
-        "column_W4mah4",
-        "column_wricda"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_yqXwBT": {
-      "type": "rich-text",
-      "blocks": {
-        "text_g7gERe": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>LM X IOTKz Pick III<\/h5>"
-          }
-        },
-        "button_ABf8Vz": {
-          "type": "button",
-          "settings": {
-            "button_label": "Choose options",
-            "button_link": "https:\/\/www.icingonthekickz.com\/products\/3-popcorn-bundle\\",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "text_ynFETy": {
-          "type": "text",
-          "settings": {
-            "text": "<h6>$65.00<\/h6>"
-          }
-        }
-      },
-      "block_order": [
-        "text_g7gERe",
-        "button_ABf8Vz",
-        "text_ynFETy"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -299,9 +133,6 @@
     "main",
     "rich_text_6mLhr4",
     "427d990b-9f6d-4701-844d-739496bd7a65",
-    "multicolumn_dc77YV",
-    "rich_text_bEPfih",
-    "multicolumn_D9aL6H",
-    "rich_text_yqXwBT"
+    "featured_collection_TKbTBw"
   ]
 }
