@@ -81,7 +81,7 @@
         "text_Nn6p8n": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em> Lammar Marie’s Gourmet Popcorn (Richmond, VA)</em></li><li><em>Token Miami (Miami, FL)</em></li></ul>"
+            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em><strong> Lammar Marie’s Gourmet Popcorn (Richmond, VA)</strong></em></li><li><em><strong>Token Miami (Miami, FL)</strong></em></li></ul>"
           }
         }
       },
@@ -94,10 +94,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
+        "color_scheme": "accent-2",
+        "full_width": false,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 24
       }
     },
     "rich_text_azyA9T": {
@@ -126,7 +126,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
