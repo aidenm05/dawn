@@ -69,13 +69,27 @@
         "text_wqFMrW": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>We’re popping up fresh, so lock in your order now!</strong></em><br/><br/></p>"
+            "text": "<p><em><strong>We’re popping up fresh, so lock in your order now!</strong></em></p>"
+          }
+        },
+        "text_xyUgGJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Pre-orders end on: 12/10</strong></em></p><p><em><strong>Shipping orders go out on: 12/16</strong></em></p>"
+          }
+        },
+        "text_Nn6p8n": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em> Lammar Marie’s Gourmet Popcorn (Richmond, VA)</em></li><li><em>Token Miami (Miami, FL)</em></li></ul>"
           }
         }
       },
       "block_order": [
         "heading_pcC9eg",
-        "text_wqFMrW"
+        "text_wqFMrW",
+        "text_xyUgGJ",
+        "text_Nn6p8n"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -84,6 +98,36 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "rich_text_azyA9T": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NQdFAh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Icing On The Kickz is ALWAYS on the move.</em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_pGfk9K": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Stay tuned for 2026!</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NQdFAh",
+        "text_pGfk9K"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_xL3i8F": {
@@ -508,6 +552,7 @@
     "rich_text_QLDNqU",
     "rich_text_YbdgDe",
     "rich_text_eNrTYV",
+    "rich_text_azyA9T",
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",
     "featured_collection_r3JJcQ",
