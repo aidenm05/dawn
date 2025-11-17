@@ -237,6 +237,123 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_mLnP8X": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_U879Be": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6615.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_bFaekK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1380.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_MmxpN9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6687.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_dhafRc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6632.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3PkXHP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2239.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_U879Be",
+        "slide_bFaekK",
+        "slide_MmxpN9",
+        "slide_dhafRc",
+        "slide_3PkXHP"
+      ],
+      "custom_css": [
+        ".slideshow {max-height: 400px;}",
+        ".slideshow__media img {object-fit: contain; max-height: 400px;}"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
     "multicolumn_p7PUM7": {
       "type": "multicolumn",
       "blocks": {
@@ -556,6 +673,7 @@
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",
     "featured_collection_r3JJcQ",
+    "slideshow_mLnP8X",
     "multicolumn_p7PUM7",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "multirow_DyGr3N",
