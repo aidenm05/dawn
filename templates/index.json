@@ -106,14 +106,14 @@
         "heading_NQdFAh": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Icing On The Kickz is ALWAYS on the move.</em>",
+            "heading": "<strong>Icing On The Kickz is ALWAYS on the move</strong>",
             "heading_size": "h2"
           }
         },
         "text_pGfk9K": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Stay tuned for 2026!</em></p>"
+            "text": "<p><em><strong>Stay tuned for 2026!</strong></em></p>"
           }
         }
       },
