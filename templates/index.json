@@ -263,6 +263,7 @@
     },
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/download_31_2.svg",
