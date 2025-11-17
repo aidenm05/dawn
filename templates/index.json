@@ -106,6 +106,7 @@
       "blocks": {
         "column_9CDjbg": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_9675.jpg",
             "title": "",
@@ -118,6 +119,7 @@
       "block_order": [
         "column_9CDjbg"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
@@ -167,6 +169,7 @@
         "button_F4CzmT",
         "text_QNBKC3"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -206,16 +209,6 @@
             "link": ""
           }
         },
-        "column_7inhfT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_9678.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_EGp7qP": {
           "type": "column",
           "settings": {
@@ -249,7 +242,6 @@
       },
       "block_order": [
         "column_k4krJe",
-        "column_7inhfT",
         "column_EGp7qP",
         "column_ipe8bB",
         "column_gRR9bX"
@@ -258,8 +250,8 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -268,47 +260,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_Mz4fQx": {
-      "type": "rich-text",
-      "blocks": {
-        "text_hj8kMD": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>LM X IOTKz Pick III</h5>"
-          }
-        },
-        "button_xViDji": {
-          "type": "button",
-          "settings": {
-            "button_label": "Choose options",
-            "button_link": "https://www.icingonthekickz.com/products/3-popcorn-bundle",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "text_GF6kRP": {
-          "type": "text",
-          "settings": {
-            "text": "<h6>$65.00</h6>"
-          }
-        }
-      },
-      "block_order": [
-        "text_hj8kMD",
-        "button_xViDji",
-        "text_GF6kRP"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -546,7 +497,6 @@
     "rich_text_hgpaGW",
     "29bfcd07-aedc-4bde-99e7-9a00ee7d1572",
     "multicolumn_p7PUM7",
-    "rich_text_Mz4fQx",
     "multirow_DyGr3N",
     "multirow_mWmyWA",
     "142260ca-e326-445f-a9e1-210402c946cd",
