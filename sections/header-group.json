@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -8,18 +17,16 @@
         "4f31a75f-7697-422a-8621-8080b7d76052": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "color_scheme": "accent-1",
-            "link": "shopify:\/\/collections\/frontpage"
+            "text": "Holiday Pre-Orders Live Pickup In VA and Miami",
+            "color_scheme": "accent-2",
+            "link": "shopify://collections/frontpage"
           }
         }
       },
       "block_order": [
         "4f31a75f-7697-422a-8621-8080b7d76052"
       ],
-      "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "header": {
       "type": "header",
