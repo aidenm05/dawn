@@ -100,36 +100,6 @@
         "padding_bottom": 24
       }
     },
-    "rich_text_azyA9T": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_NQdFAh": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Icing On The Kickz is ALWAYS on the move</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_pGfk9K": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>Stay tuned for 2026!</strong></em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NQdFAh",
-        "text_pGfk9K"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_xL3i8F": {
       "type": "multicolumn",
       "blocks": {
@@ -352,6 +322,36 @@
         "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": ""
+      }
+    },
+    "rich_text_azyA9T": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NQdFAh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Icing On The Kickz is ALWAYS on the move</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_pGfk9K": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Stay tuned for 2026!</strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NQdFAh",
+        "text_pGfk9K"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "multicolumn_p7PUM7": {
@@ -669,11 +669,11 @@
     "rich_text_QLDNqU",
     "rich_text_YbdgDe",
     "rich_text_eNrTYV",
-    "rich_text_azyA9T",
     "multicolumn_xL3i8F",
     "rich_text_hgpaGW",
     "featured_collection_r3JJcQ",
     "slideshow_mLnP8X",
+    "rich_text_azyA9T",
     "multicolumn_p7PUM7",
     "d0fb797d-1c06-4308-801b-1cbcb28d52a7",
     "multirow_DyGr3N",
