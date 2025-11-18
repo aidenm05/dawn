@@ -299,6 +299,114 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_rmbH9C": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5183.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_YRfTAE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6641.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_thmpKe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6609.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_HmHK3c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5280.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_f7QVUa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FullSizeRender.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_dVLejx": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FullSizeRender_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
@@ -306,7 +414,13 @@
         "slide_bFaekK",
         "slide_MmxpN9",
         "slide_dhafRc",
-        "slide_3PkXHP"
+        "slide_3PkXHP",
+        "slide_rmbH9C",
+        "slide_YRfTAE",
+        "slide_thmpKe",
+        "slide_HmHK3c",
+        "slide_f7QVUa",
+        "slide_dVLejx"
       ],
       "custom_css": [
         ".slideshow {max-height: 400px;}",
