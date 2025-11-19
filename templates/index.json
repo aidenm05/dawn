@@ -75,7 +75,7 @@
         "text_xyUgGJ": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Pre-orders end 12/1 • Pickup 12/5 Only • Orders Ship 12/5</strong></em></p>"
+            "text": "<p><em><strong>Pre-orders end 12/1 • Pickup on 12/5 • Orders Ship 12/5</strong></em></p>"
           }
         },
         "text_Nn6p8n": {
@@ -463,7 +463,7 @@
         "text_pGfk9K"
       ],
       "custom_css": [
-        ".rich-text__heading {font-family: 'Fredoka One', cursive; font-weight: 1000; text-transform: uppercase; letter-spacing: .5px;}"
+        ".rich-text__heading {font-family: \"Fredoka One\", cursive; font-weight: 1000; text-transform: uppercase; letter-spacing: 0.5px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
