@@ -46,7 +46,7 @@
         "text_wqFMrW": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>We’re popping up FRESH, so lock in your order now!</strong></em></p>"
+            "text": "<h4><em><strong>We’re popping up FRESH, so lock in your order now!</strong></em></h4>"
           }
         },
         "text_xyUgGJ": {
@@ -184,7 +184,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 8
       }
     },
     "slideshow_mLnP8X": {
