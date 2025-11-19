@@ -69,19 +69,19 @@
         "text_wqFMrW": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>We’re popping up fresh, so lock in your order now!</strong></em></p>"
+            "text": "<p><em><strong>We’re popping up FRESH, so lock in your order now!</strong></em></p>"
           }
         },
         "text_xyUgGJ": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Pre-orders end 12/1 • Pickup on 12/5 • Orders Ship 12/5</strong></em></p>"
+            "text": "<p><em><strong>Pre-orders end 12/1 • Pickup on 12/5  Orders Ship 12/5</strong></em></p>"
           }
         },
         "text_Nn6p8n": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em><strong> Lammar Marie’s Gourmet Popcorn (Richmond, VA)</strong></em></li><li><em><strong>Token Miami (Miami, FL)</strong></em></li></ul>"
+            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em><strong> Lammar Marie’s Popcorn (Richmond, VA)</strong></em></li><li><em><strong>Token Miami (Miami, FL)</strong></em></li></ul>"
           }
         }
       },
@@ -92,7 +92,7 @@
         "text_Nn6p8n"
       ],
       "custom_css": [
-        "#template--17876377829423__rich_text_azyA9T .rich-text__heading {font-family: 'Fredoka One', sans-serif; font-weight: 900; text-transform: uppercase; letter-spacing: 1px;}"
+        "#template--17876377829423__rich_text_azyA9T .rich-text__heading {font-family: \"Fredoka One\", sans-serif; font-weight: 900; text-transform: uppercase; letter-spacing: 1px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
