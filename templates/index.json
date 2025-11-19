@@ -92,7 +92,7 @@
         "text_Nn6p8n"
       ],
       "custom_css": [
-        ".rich-text__heading {font-family: \"Fredoka One\", cursive; font-weight: normal;}"
+        "#template--17876377829423__rich_text_azyA9T .rich-text__heading {font-family: 'Fredoka One', sans-serif; font-weight: 900; text-transform: uppercase; letter-spacing: 1px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
