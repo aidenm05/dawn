@@ -431,7 +431,7 @@
         "text_pGfk9K": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Stay tuned for 2026!</strong></em></p>"
+            "text": "<h5><em><strong>Stay tuned for 2026!</strong></em></h5>"
           }
         }
       },
