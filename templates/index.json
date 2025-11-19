@@ -440,7 +440,7 @@
         "text_pGfk9K"
       ],
       "custom_css": [
-        ".rich-text__heading {font-family: \"Fredoka One\", cursive; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2); color: #000; transform: rotate(-2deg);}"
+        ".rich-text__heading {font-family: \"Fredoka One\", cursive; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2); color: #000; transform: rotate(-2deg);}"
       ],
       "settings": {
         "desktop_content_position": "center",
