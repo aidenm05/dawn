@@ -39,7 +39,7 @@
         "heading_pcC9eg": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>PRE-ORDERS FOR OUR SNEAKER-THEMED GOURMET POPCORN COLLAB ARE NOW LIVE FOR THE HOLIDAY SEASON!</strong></em>",
+            "heading": "<em><strong>New SNEAKER-THEMED GOURMET POPCORN COLLAB ARE NOW AVAILABLE</strong></em>",
             "heading_size": "h1"
           }
         },
@@ -51,6 +51,7 @@
         },
         "text_xyUgGJ": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><em><strong>Pre-orders end 12/1 • Pickup on 12/5  </strong></em></p><p><em><strong>Mail orders Ship 12/5</strong></em></p>"
           }
@@ -58,7 +59,7 @@
         "text_Nn6p8n": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em><strong> Lammar Marie’s (Richmond, VA)</strong></em></li><li><em><strong>Token Miami (Miami, FL)</strong></em></li></ul>"
+            "text": "<p><em><strong>Pick-up orders available at:</strong></em></p><ul><li><em><strong> Lammar Marie’s (Richmond, VA)</strong></em></li></ul><p></p>"
           }
         }
       },
